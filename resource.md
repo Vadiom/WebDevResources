@@ -380,7 +380,7 @@
 - [Pre-deploy checklist](http://www.codelord.net/2014/01/15/my-pre-deploy-checklist/)
 - [Visual Designers Checklist for the Web](http://webdesignerschecklist.com/)
 - [Desktop development with HTML5, CSS3 and JavaScript](http://www.tidesdk.org/)
-- [Apache Cordova - platform for building native mobile applications using HTML, CSS and JavaScript](http://cordova.apache.org/)
+- [Apache Cordova - platform for building native mobile applications](http://cordova.apache.org/)
 - [PHỞ - automated workflow for front-end developers](http://pho.madebysource.com/)
 - [Yeoman - the web's scaffolding tool](http://yeoman.io/)
 - [Periodic table of web design process](http://i.imgur.com/hqGsw2k.jpg)
