@@ -8,7 +8,7 @@
 
 ---
 
-#### Version: v42.0
+#### Version: v0.42
 
 ---
 
@@ -35,8 +35,6 @@
 - [Class and ID Selectors](http://www.htmldog.com/guides/css/intermediate/classid/)
 - [CSS Reference](https://www.w3schools.com/cssref/default.asp)
 - [PureCSS](https://purecss.io/)
-  <!-- - [GitHub's style guide](https://github.com/styleguide/css) -->
-- [Medium's CSS](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
 - [CSS Button Generator](http://css3buttongenerator.com)
 - [Responsive UI Examples](https://semantic-ui.com/examples/responsive.html)
@@ -46,7 +44,6 @@
 - [HTML Cheat Sheet Compilation](https://websitesetup.org/html5-cheat-sheet/)
 - [HTML5 Tutorial PDF Tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
 - [Responsive breakpoint cheatsheet](https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf)
-- [SEO periodic table](http://searchengineland.com/download/seotable/SearchEngineLand-Periodic-Table-of-SEO-2013-large.png)
 - [Audreyr’s Favicon cheat sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
 # Introduction to JavaScript
@@ -148,7 +145,6 @@
 - [Git Icons](https://shields.io/#/)
 - [Git Scm](https://git-scm.com/)
 - [Git-it – Learn Git](http://jlord.us/git-it/)
-  <!-- - [Citizen Code of Conduct](http://citizencodeofconduct.org/) -->
 - [Make a Readme File](https://www.makeareadme.com)
 - [Git Badges](https://shields.io/#/)
 
@@ -288,8 +284,6 @@
 - [Webhosting Talk](http://www.webhostingtalk.com/)
 - [Section 508](https://www.section508.gov/)
 - [HTTP Archice](https://httparchive.org/reports)
-- [Most common technical interview questions for front end developers](http://www.frontendjournal.com/most-common-technical-interview-question-for-frontend-developers/)
-- [10 best free ebooks for designers](http://despreneur.com/10-best-free-ebooks-for-designers/)
 - [Google's best practices for modern web development](https://developers.google.com/web/fundamentals/)
 
 ## Projects
@@ -340,12 +334,12 @@
 
 - [Getting Started With SASS](https://scotch.io/tutorials/getting-started-with-sass)
 - [Devhints](https://devhints.io/sass)
-- [Groupbuddies Sass project architecture and style guide](http://blog.groupbuddies.com/posts/32-our-css-sass-project-architecture-and-styleguide)
 - [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css)
 - [SassMeister](https://www.sassmeister.com/)
 - [Scotch](https://scotch.io/tutorials/getting-started-with-sass)
 - [SASS Lang](https://sass-lang.com/install)
 - [Primitive Minimalist SASS boilerplate](https://taniarascia.github.io/primitive/#sass-main)
+- [Groupbuddies Sass project architecture and style guide](http://blog.groupbuddies.com/posts/32-our-css-sass-project-architecture-and-styleguide)
 
 ## Speed Test
 
@@ -382,9 +376,7 @@
 ## Tools
 
 - [10 essential tools for startups](http://despreneur.com/10-essential-tools-for-startups/)
-  <!-- - [uiFaces - sample avatar mockups](http://uifaces.com/) -->
 - [Daux.io - documentation generator](http://daux.io/)
-- [Developer and power users tool list for windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 - [Vagrant](http://www.vagrantup.com/)
 - [SinglePafe.guru - singlepage design made easy](https://www.singlepage.guru/editor.html)
 - [Firebase - store and sync data in realtime](https://www.firebase.com/)
@@ -403,17 +395,6 @@
 - [User managaement in node.js](http://devcenter.kinvey.com/nodejs/guides/users)
 - [node.js guides](http://devcenter.kinvey.com/nodejs/guides)
 
-<!-- ## UX and UI
-
-- [10 differences between UX and UI designers](http://www.thedesignpotato.com/10-differences-between-ux-designer-and-ui-designer/)
-- [UX crash course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
-- [Google's UX design approach](http://www.fastcodesign.com/1672657/google-s-dead-simple-tool-for-making-ux-decisions-2-jars-of-marbles?utm_source)
-- [Good UI - tips for building good UIs](http://www.goodui.org/index_v2.html)
-- [Free UX Resources](http://uxmessiah.com/free-ux-resources-part-1/)
-- [User onboarding teardowns](http://www.useronboard.com/onboarding-teardowns/)
-- [A/B testing with PHP](http://phpabtest.com/)
-- [Google Content Experiments](https://support.google.com/analytics/answer/1745147?hl=en&ref_topic=1745207&rd=1) -->
-
 ## Validation
 
 - [Validate HTML](https://validator.w3.org)
@@ -429,7 +410,6 @@
 ## Wireframe
 
 - [In Browser Wireframing](https://app.moqups.com)
-  <!-- - [Very Basic In Browser Wireframing](https://wireframe.cc) -->
 
 ## Workflow
 
@@ -494,7 +474,6 @@
 - [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
 - [Google web fonts typography](http://femmebot.github.io/google-type/)
 - [Blokk font](http://blokkfont.com/)
-- [10 commandments of typography](http://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg)
 
 ## Font Utilities
 
