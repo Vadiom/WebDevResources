@@ -2,6 +2,16 @@
 
 ### Things I have learned and found along the way that helped. Open and visit links at your own risk. The links are in no particular order. The links do not representate promotional of any specific site or product.
 
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
+
+---
+
+#### Version: v42.0
+
+---
+
 # Introduction to the Internet
 
 - [How the Internet Works for Developers Pt 1 Overview & Frontend @ LearnCode.academy](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
@@ -135,6 +145,7 @@
 ## Git
 
 - [GitHub](https://github.com/)
+- [Git Icons](https://shields.io/#/)
 - [Git Scm](https://git-scm.com/)
 - [Git-it – Learn Git](http://jlord.us/git-it/)
   <!-- - [Citizen Code of Conduct](http://citizencodeofconduct.org/) -->
@@ -311,6 +322,7 @@
 - [Github](https://status.github.com/messages)
 - [Apple](https://www.apple.com/support/systemstatus/)
 - [Amazon](https://status.aws.amazon.com/)
+- [Shields](https://status.shields.io/)
 - [NPM](https://status.npmjs.org/)
 - [Pearson](https://status.pearson.com/#/home)
 - [WP Engine](https://wpenginestatus.com/)
@@ -464,6 +476,10 @@
 - [WP Theme Test](http://themetest.wordpress.com)
 - [WP Test Data](http://wptest.io/demo)
 
+# Cyber Security
+
+- [Threatpost](https://threatpost.com/)
+
 # Typograph
 
 ## Fonts
@@ -477,11 +493,7 @@
 - [Typ.io - Fonts that go together](http://www.typ.io/)
 - [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
 - [Google web fonts typography](http://femmebot.github.io/google-type/)
-- [Open Sans](http://www.google.com/fonts/specimen/Open+Sans)
-- [Lato](http://www.google.com/fonts/specimen/Lato)
-- [Best new web fonts of 2013](http://typecast.com/blog/best-new-web-fonts-of-2013)
 - [Blokk font](http://blokkfont.com/)
-- [Fresh free fonts](http://theneodesign.com/fresh-free-fonts-2014/)
 - [10 commandments of typography](http://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg)
 
 ## Font Utilities
@@ -505,7 +517,6 @@
 - [Web Hosting Hub Glyphs](http://www.webhostinghub.com/glyphs)
 - [Map Icons](http://map-icons.com/)
 - [Weather Icons](https://erikflowers.github.io/weather-icons/)
-- [Flat Icon](http://www.flaticon.com/)
 - [Modern UI Icons](http://modernuiicons.com/)
 - [Material Design Icons](https://materialdesignicons.com/)
 - [Free Icons](https://www.iconfinder.com)
@@ -546,23 +557,16 @@
 
 ## Plugins
 
-- [Shepherd](http://github.hubspot.com/shepherd/docs/welcome/)
-- [HTML5 slider with range support](https://github.com/fryn/html5slider)
-- [jQRangeSlider](http://ghusse.github.io/jQRangeSlider/demo.html)
-- [Chosen - Better select boxes](http://www.webdevsnippets.com/)
-- [Selectize - textbox and select hyrbid](http://brianreavis.github.io/selectize.js/)
-- [Datatables](http://datatables.net/)
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
 - [Masonry](http://masonry.desandro.com/)
 - [MixItUp - filtering and sorting](https://mixitup.kunkalabs.com/)
-- [jQuery FocusPoint](https://github.com/jonom/jquery-focuspoint)
 
 ## Pattern libraries
 
 - [Subtle Patterns](http://subtlepatterns.com/)
 - [Place Pattern](http://placepattern.com)
 - [The Pattern Library](http://thepatternlibrary.com)
-  https://bennettfeely.com/clippy/
+- [Bennett Feely](https://bennettfeely.com/clippy/)
 
 ## Placeholder Images
 
@@ -586,19 +590,12 @@
 ## Stock images
 
 - [Unsplash](https://unsplash.com/)
-- [Gratisography](http://www.gratisography.com/)
-- [Splitshire](http://splitshire.com/)
 - [Raumrot](http://www.raumrot.com/10/)
 - [Death to the stock photo](http://deathtothestockphoto.com/)
 - [The stocks](http://thestocks.im/)
 
-# Cyber Security
-
-- [Threatpost](https://threatpost.com/)
-
 # Business
 
-- [Freelancer life](http://papermine.com/pub/917#cover)
 - [Simple contract template](https://www.docracy.com/3884/contract-of-works-for-web-design)
 - [33 ways to get more clients](http://blog.slant.co/post/95896285907/finding-a-winning-workflow-for-frontend-development)
 - [Avoiding client headache](http://uxmovement.com/resources/how-to-avoid-client-headache-as-a-freelance-designer/)
@@ -610,28 +607,16 @@
 
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [CSS-Tricks](https://css-tricks.com/)
-- [Codrops](https://tympanus.net/codrops/)
 - [Front-End Front Basically, front-end news](https://frontendfront.com/)
 - [Echo JS JavaScript News](http://www.echojs.com/)
-- [A list Apart Code](https://alistapart.com/topic/code)
 - [Scotch Code Eat Sleep Loop](https://scotch.io/)
-- [Web design weekly](http://web-design-weekly.com/)
-- [Sidebar](http://marvelapp.github.io/devices.css/)
-- [AWWWards](http://www.awwwards.com/)
 - [A list apart](http://alistapart.com/)
 - [The Neo Design](http://theneodesign.com/)
-- [Codrops](http://tympanus.net/codrops/)
 - [TechCrunch](http://techcrunch.com/)
-- [SitePoint](http://www.sitepoint.com/)
-- [Smashing Magazine](http://www.smashingmagazine.com/)
 - [Speckyboy](http://speckyboy.com/)
 - [Vandelay design's blog](http://vandelaydesign.com/blog/)
-- [Hack design](http://hackdesign.org/)
 - [Line 25](http://line25.com/)
-- [Web Dev Snippets](http://www.webdevsnippets.com/)
 - [Codular](http://codular.com/)
-- [Lonely pixel](http://www.lonely-pixel.com/)
-- [SiteBuilderReport](http://www.sitebuilderreport.com/blog)
 - [Codacy](http://blog.codacy.com/)
 - [Code School Blog](http://www.codeschool.com/blog/)
 - [Web Designer Depot](http://www.webdesignerdepot.com/)
@@ -640,8 +625,11 @@
 
 - [Frontend Focus](https://frontendfoc.us/)
 - [CSS Weekly](http://css-weekly.com/)
+- [Hack design](http://hackdesign.org/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
+- [SiteBuilderReport](http://www.sitebuilderreport.com/blog)
 - [WebTools Weekly](https://webtoolsweekly.com/)
+- [Web design weekly](http://web-design-weekly.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/)
 - [Sidebar](https://sidebar.io/)
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
@@ -660,8 +648,6 @@
 
 ## Traditional Jobs
 
-- [Indeed](https://www.indeed.com)
-- [Simply Hired](https://www.simplyhired.com)
 - [Robert Half](https://www.roberthalf.com)
 - [Kroph](https://www.krop.com/)
 - [Career Builder](https://www.careerbuilder.com)
@@ -672,7 +658,7 @@
 - [The Muse](https://www.themuse.com)
 - [Sologig](https://www.sologig.com)
 - [Dice](https://www.dice.com)
-- [WPHired (Wordpress)](https://www.wphired.com)
+- [WPHired](https://www.wphired.com)
 - [GitHub Jobs](https://jobs.github.com)
 - [Stack Overflow](https://stackoverflow.com/jobs)
 
