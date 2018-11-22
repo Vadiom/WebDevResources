@@ -61,10 +61,6 @@
 - [Bootstrap Templetes](https://startbootstrap.com/template-categories/all/)
 - [Bootstrap NavBar Builder](https://work.smarchal.com/twbscolor/)
 
-## Boilerplates
-
-- [HTML5 Boilerplate](http://www.initializr.com/)
-
 ## Bourbon
 
 - [Bourbon](https://www.bourbon.io/)
@@ -172,6 +168,7 @@
 
 - [CodePen](https://codepen.io)
 - [Liveweave](http://liveweave.com)
+- [Code Snadbox](https://codesandbox.io/)
 
 ## Image Compression
 
@@ -309,7 +306,7 @@
 - [Outage Report](https://outage.report/)
 - [Website DOwn](http://www.websitedown.info/)
 
-### Sit Status (Specific Sites)
+### Site Status (Specific Sites)
 
 - [Github](https://status.github.com/messages)
 - [Apple](https://www.apple.com/support/systemstatus/)
@@ -322,7 +319,6 @@
 ## SEO
 
 - [Varvy](https://varvy.com/)
-- [Keyword List Generator](https://www.newsunseo.com/seo/keyword-list-generator-tool)
 - [Mega Tags](https://megatags.co/)
 - [Enhanced Meta Tag Generator](http://tools.seochat.com/tools/enhanced-meta-tag-generator/#sthash.eSoAmk7e.dpbs)
 - [Webnots](https://www.webnots.com/)
@@ -349,24 +345,21 @@
 
 ## Snippet Tools
 
-- [Snippet Manager](https://gist.github.com)
-- [Snippet Manager](https://pastebin.com)
+- [Paste Bin](https://pastebin.com)
 
 ## Styles
 
 - [Primer](https://primer.style/)
 - [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 
-## Templates, Frameworks and Components
+## Templates, Boilerplates, Frameworks and Components
 
-- [Layers CSS](http://www.wework.com/magazine/knowledge/google-degree-resources-transformed-web-dev/)
 - [Flat UI](http://designmodo.github.io/Flat-UI/)
-- [PixelKit Bootstrap UI kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits/)
-- [Bourbon - Sass mixin library](http://bourbon.io/)
 - [Simple CSS spiners](http://tobiasahlin.com/spinkit/)
 - [20 Free useful flat HTML templates](http://despreneur.com/20-free-useful-flat-html-templates/)
-- [CodyHouse - A free library of HTML, CSS, JS nuggets](http://codyhouse.co/)
-- [HTML5 up - spiffy templates](http://html5up.net/)
+- [HTML5 Up](http://html5up.net/)
+- [HTML5 Initializer](http://www.initializr.com/)
+- [Reveal.js - HTML presentations made easy](http://lab.hakim.se/reveal-js/#/)
 - [Jekyll resume](https://github.com/philipithomas/jekyll-resume/)
 
 ## Terms
@@ -379,14 +372,9 @@
 - [10 essential tools for startups](http://despreneur.com/10-essential-tools-for-startups/)
   <!-- - [uiFaces - sample avatar mockups](http://uifaces.com/) -->
 - [Daux.io - documentation generator](http://daux.io/)
-- [Online style guide generator](http://stylifyme.com/)
-- [SEO site checkup](http://seositecheckup.com/)
 - [Developer and power users tool list for windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 - [Vagrant](http://www.vagrantup.com/)
-- [Forp - PHP Profiler](http://forp.io/)
-- [RawGit - easy CDNs](https://rawgit.com/)
 - [SinglePafe.guru - singlepage design made easy](https://www.singlepage.guru/editor.html)
-- [Reveal.js - HTML presentations made easy](http://lab.hakim.se/reveal-js/#/)
 - [Firebase - store and sync data in realtime](https://www.firebase.com/)
 
 ## Tutorials
@@ -452,7 +440,6 @@
 - [Wordpress Devolopers](https://developer.wordpress.com/)
 - [Wordpress Testing](http://wptest.io/)
 - [Wordpress Functions](http://www.wpfunction.me/)
-- [Filler Text for WP Testing](http://www.wpfill.me/)
 - [Post Type Generator](https://generatewp.com/post-type/)
 - [VISUALIZE THE WORDPRESS TEMPLATE HIERARCHY](https://wphierarchy.com/)
 - [WP Beginner](https://www.wpbeginner.com/)
@@ -464,7 +451,6 @@
 - [Understrap](https://understrap.com/)
 - [Generate WP Post Type](https://generatewp.com/post-type/)
 - [HTML5Blank for WP](http://html5blank.com/)
-- [WPPB](https://wppb.me/)
 
 ### Boilerplate
 
