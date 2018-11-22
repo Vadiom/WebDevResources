@@ -48,6 +48,10 @@
 
 # Tools and Editors
 
+## Apache
+
+- [Apache Cordova - platform for building native mobile applications](http://cordova.apache.org/)
+
 ## Bootstrap
 
 - [Get Bootstrap](https://getbootstrap.com/)
@@ -95,6 +99,7 @@
 - [UI Gradients](http://uigradients.com/)
 - [Gradient.io](http://www.gradients.io/)
 - [BrandColors](http://brandcolors.net/)
+- [Adobe Kuler color wheel](https://kuler.adobe.com/create/color-wheel/)
 
 ## Converters
 
@@ -365,17 +370,14 @@
 - [Bourbon - Sass mixin library](http://bourbon.io/)
 - [Simple CSS spiners](http://tobiasahlin.com/spinkit/)
 - [20 Free useful flat HTML templates](http://despreneur.com/20-free-useful-flat-html-templates/)
-- [Web and mobile GUI templates](http://speckyboy.com/2014/01/15/50-best-web-mobile-gui-templates-2013/)
 - [CodyHouse - A free library of HTML, CSS, JS nuggets](http://codyhouse.co/)
 - [HTML5 up - spiffy templates](http://html5up.net/)
-- [20 Free useful flat HTML templates](http://despreneur.com/20-free-useful-flat-html-templates/)
-- [Web and mobile GUI templates](http://speckyboy.com/2014/01/15/50-best-web-mobile-gui-templates-2013/)
+- [Jekyll resume](https://github.com/philipithomas/jekyll-resume/)
 
 ## Tools
 
 - [10 essential tools for startups](http://despreneur.com/10-essential-tools-for-startups/)
-- [uiFaces - sample avatar mockups](http://uifaces.com/)
-- [Adobe Kuler color wheel](https://kuler.adobe.com/create/color-wheel/)
+  <!-- - [uiFaces - sample avatar mockups](http://uifaces.com/) -->
 - [Daux.io - documentation generator](http://daux.io/)
 - [Online style guide generator](http://stylifyme.com/)
 - [SEO site checkup](http://seositecheckup.com/)
@@ -400,7 +402,6 @@
 - [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
 - [User managaement in node.js](http://devcenter.kinvey.com/nodejs/guides/users)
 - [node.js guides](http://devcenter.kinvey.com/nodejs/guides)
-- [Jekyll resume](https://github.com/philipithomas/jekyll-resume/)
 
 <!-- ## UX and UI
 
@@ -428,19 +429,16 @@
 ## Wireframe
 
 - [In Browser Wireframing](https://app.moqups.com)
-- [Very Basic In Browser Wireframing](https://wireframe.cc)
+  <!-- - [Very Basic In Browser Wireframing](https://wireframe.cc) -->
 
 ## Workflow
 
+- [Periodic table of web design process](http://i.imgur.com/hqGsw2k.jpg)
 - [Thoughtbot's Playbook](http://playbook.thoughtbot.com/)
 - [Web dev checklist](http://webdevchecklist.com/)
 - [Pre-deploy checklist](http://www.codelord.net/2014/01/15/my-pre-deploy-checklist/)
-- [Visual Designers Checklist for the Web](http://webdesignerschecklist.com/)
-- [Desktop development with HTML5, CSS3 and JavaScript](http://www.tidesdk.org/)
-- [Apache Cordova - platform for building native mobile applications](http://cordova.apache.org/)
 - [PHỞ - automated workflow for front-end developers](http://pho.madebysource.com/)
 - [Yeoman - the web's scaffolding tool](http://yeoman.io/)
-- [Periodic table of web design process](http://i.imgur.com/hqGsw2k.jpg)
 - [How to start a web design project](http://designmodo.com/web-design-project/)
 
 ## Yarn
