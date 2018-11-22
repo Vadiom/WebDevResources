@@ -1,6 +1,6 @@
 # Resource's for Web Devolopers
 
-### Things I have learned and found along the way that helped.
+### Things I have learned and found along the way that helped. Open and visit links at your own risk. There is no promotional or
 
 # Introduction to the Internet
 
@@ -82,13 +82,11 @@
 - [Color Picker](https://htmlcolorcodes.com/)
 - [Flat UI Colors](http://flatuicolors.com/)
 - [Colordot](https://color.hailpixel.com)
-- [Web Colors](https://www.rapidtables.com/web/color/index.html)
 - [Color Schemes Generator](https://coolors.co/)
 - [ColorSchemer](http://hnl.name/color-schemer-online/)
 - [WebSafeColors](https://websafecolors.info/color-chart)
 - [Color Scheme Designer](http://paletton.com/)
 - [Material.io](https://material.io/)
-- [Create Color Schemes](https://color.hailpixel.com)
 - [Get Color Schemes of Websites](http://stylifyme.com)
 - [Create Gradients](https://uigradients.com)
 - [Flat UI Colors](http://flatuicolors.com/)
@@ -99,7 +97,6 @@
 - [UI Gradients](http://uigradients.com/)
 - [Gradient.io](http://www.gradients.io/)
 - [BrandColors](http://brandcolors.net/)
-- [Adobe Kuler color wheel](https://kuler.adobe.com/create/color-wheel/)
 
 ## Converters
 
@@ -144,6 +141,8 @@
 
 ## Git
 
+- [GitHub](https://github.com/)
+- [Git Scm](https://git-scm.com/)
 - [Git-it – Learn Git](http://jlord.us/git-it/)
   <!-- - [Citizen Code of Conduct](http://citizencodeofconduct.org/) -->
 - [Make a Readme File](https://www.makeareadme.com)
@@ -284,7 +283,6 @@
 - [Webhosting Talk](http://www.webhostingtalk.com/)
 - [Section 508](https://www.section508.gov/)
 - [HTTP Archice](https://httparchive.org/reports)
-- [Terms and Condition Generator](https://termsandcondiitionssample.com/download.php?lang=en&token=zXtAjbGbc0jOreH9rGdQdfRiff4BnwVE#)
 - [Most common technical interview questions for front end developers](http://www.frontendjournal.com/most-common-technical-interview-question-for-frontend-developers/)
 - [10 best free ebooks for designers](http://despreneur.com/10-best-free-ebooks-for-designers/)
 - [Google's best practices for modern web development](https://developers.google.com/web/fundamentals/)
@@ -373,6 +371,11 @@
 - [CodyHouse - A free library of HTML, CSS, JS nuggets](http://codyhouse.co/)
 - [HTML5 up - spiffy templates](http://html5up.net/)
 - [Jekyll resume](https://github.com/philipithomas/jekyll-resume/)
+
+## Terms
+
+- [Terms and Condition Generator](https://termsandcondiitionssample.com)
+- [Terms Feed](https://termsfeed.com/)
 
 ## Tools
 
