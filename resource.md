@@ -1,6 +1,6 @@
 # Resource's for Web Devolopers
 
-### Things I have learned and found along the way that helped. Open and visit links at your own risk. There is no promotional or
+### Things I have learned and found along the way that helped. Open and visit links at your own risk. The links are in no particular order. The links do not representate promotional of any specific site or product.
 
 # Introduction to the Internet
 
