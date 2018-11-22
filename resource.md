@@ -16,31 +16,26 @@
 - [HTML Reference](http://htmlreference.io/)
 - [HTML Tutorials](http://www.htmldog.com/)
 - [MarkSheet A free HTML & CSS tutorial](http://marksheet.io/)
-- [w3schools](https://www.w3schools.com/)
 - [Learn to code HTML & CSS Shay Howe](http://learn.shayhowe.com/html-css/)
-- [W3C Reference](http://w3c.github.io/developers/tools/)
-- [Website Style Guide](https://style.codeforamerica.org/)
 
 ## CSS
 
+- [CSS guidelines](http://cssguidelin.es/)
 - [CSS Reference](http://cssreference.io/)
 - [Class and ID Selectors](http://www.htmldog.com/guides/css/intermediate/classid/)
 - [CSS Reference](https://www.w3schools.com/cssref/default.asp)
 - [PureCSS](https://purecss.io/)
-- [CSS guidelines](http://cssguidelin.es/)
-- [GitHub's style guide](https://github.com/styleguide/css)
-- [Groupbuddies Sass project architecture and style guide](http://blog.groupbuddies.com/posts/32-our-css-sass-project-architecture-and-styleguide)
-- [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css)
+  <!-- - [GitHub's style guide](https://github.com/styleguide/css) -->
 - [Medium's CSS](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
+- [CSS Button Generator](http://css3buttongenerator.com)
+- [Responsive UI Examples](https://semantic-ui.com/examples/responsive.html)
 
 ### Cheat Sheets
 
 - [HTML Cheat Sheet Compilation](https://websitesetup.org/html5-cheat-sheet/)
 - [HTML5 Tutorial PDF Tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
-- [20 Useful HTML5 Code Snippets You Should Know](http://www.realcombiz.com/2014/02/20-useful-html5-code-snippets-you.html?m=1)
 - [Responsive breakpoint cheatsheet](https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf)
-- [AngularJS cheatsheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 - [SEO periodic table](http://searchengineland.com/download/seotable/SearchEngineLand-Periodic-Table-of-SEO-2013-large.png)
 - [Audreyr’s Favicon cheat sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
@@ -49,19 +44,26 @@
 - [An Introduction To Javascript](https://javascript.info/intro)
 - [Javascript Basics](https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf)
 - [Idiomatic JS](https://github.com/rwaldron/idiomatic.js)
-- [Make your own AngularJS](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
-- [JavaScript Garden - Documentation on JavaScript quirks](http://shamansir.github.io/JavaScript-Garden/en/)
-- [JavaScript hacks explained](http://blog.mdnbar.com/javascript-common-tricks)
+- [JSFiddle](https://jsfiddle.net/)
 
 # Tools and Editors
 
 ## Bootstrap
 
 - [Get Bootstrap](https://getbootstrap.com/)
+- [Bootstrap Build](https://bootstrap.build/)
+- [Bootstrap CDN](https://www.bootstrapcdn.com/)
+- [Get Bootsnipps](https://bootsnipp.com/)
+- [Bootstrap Templetes](https://startbootstrap.com/template-categories/all/)
+- [Bootstrap NavBar Builder](https://work.smarchal.com/twbscolor/)
 
 ## Boilerplates
 
 - [HTML5 Boilerplate](http://www.initializr.com/)
+
+## Bourbon
+
+- [Bourbon](https://www.bourbon.io/)
 
 ## Composer
 
@@ -69,12 +71,22 @@
 
 ## Colors
 
+- [Stylifyme](http://stylifyme.com)
+- [HTML Color Codes](https://htmlcolorcodes.com/)
+- [Rapid Tables](https://www.rapidtables.com/web/color/index.html)
+- [UI Gradients](https://uigradients.com)
+- [Color Picker](https://htmlcolorcodes.com/)
+- [Flat UI Colors](http://flatuicolors.com/)
+- [Colordot](https://color.hailpixel.com)
+- [Web Colors](https://www.rapidtables.com/web/color/index.html)
+- [Color Schemes Generator](https://coolors.co/)
+- [ColorSchemer](http://hnl.name/color-schemer-online/)
+- [WebSafeColors](https://websafecolors.info/color-chart)
 - [Color Scheme Designer](http://paletton.com/)
 - [Material.io](https://material.io/)
 - [Create Color Schemes](https://color.hailpixel.com)
 - [Get Color Schemes of Websites](http://stylifyme.com)
 - [Create Gradients](https://uigradients.com)
-- [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
 - [Flat UI Colors](http://flatuicolors.com/)
 - [Material Palette](http://www.materialpalette.com/)
 - [Color-hex](http://www.color-hex.com/)
@@ -88,9 +100,7 @@
 
 - [ES6+ & JSX Compiler](https://babeljs.io/repl)
 - [Sass Converter](https://www.sassmeister.com/)
-- [Less Converter & More](http://www.webtoolkitonline.com)
 - [Markdown Editor](https://stackedit.io)
-- [Jade Converter](http://www.html2jade.org/)
 
 ## Cross-Browser Compatibility
 
@@ -99,6 +109,16 @@
 ## DNS
 
 - [View DNS](https://viewdns.info/)
+- [Whats My IP](http://www.whatsmyip.org/)
+- [Google DNS Toolbox](https://toolbox.googleapps.com/apps/main/)
+- [DNS Dumpster](https://dnsdumpster.com)
+- [Who Is My IP Neighbor](https://www.ipneighbour.com/)
+- [Domain Tools](http://whois.domaintools.com/)
+- [Whats My DNS](https://www.whatsmydns.net/)
+- [IAMA](https://www.iana.org/whois)
+- [Who Is](https://who.is/)
+- [IP Info](https://ipinfo.info/)
+- [Debouncer](https://www.debouncer.com/?attempt=1)
 
 ## Editors
 
@@ -110,7 +130,6 @@
 ## Favicon
 
 - [Favicons](http://www.favicomatic.com/)
-- [Favicon Generator](http://tools.dynamicdrive.com/favicon)
 - [Favicon.cc](http://www.favicon.cc/)
 - [Real Favicon Generator](http://realfavicongenerator.net/)
 
@@ -121,23 +140,28 @@
 ## Git
 
 - [Git-it – Learn Git](http://jlord.us/git-it/)
-- [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+  <!-- - [Citizen Code of Conduct](http://citizencodeofconduct.org/) -->
 - [Make a Readme File](https://www.makeareadme.com)
 - [Git Badges](https://shields.io/#/)
 
 ## Generators
 
-- [Text Content Generator](http://www.lipsum.com)
 - [Data Generator ](https://mockaroo.com/)
 - [Mobile Mockup Generator](https://mockuphone.com)
 - [Logo Generator ](https://www.logaster.com)
 - [UUID Generator ](https://www.uuidgenerator.net/)
 - [Hash Generator ](https://passwordsgenerator.net/sha256-hash-generator/)
-- [CSS Button Generator](http://css3buttongenerator.com)
+- [Brief Generator](http://briefgenerator.com/)
 
 ## Green IT
 
 - [The Green Web Foundation](https://www.thegreenwebfoundation.org/)
+- [ECO Grader](https://ecograder.com/)
+- [Website Carbon](https://www.websitecarbon.com/)
+
+## Gulp
+
+- [Gulp](https://gulpjs.com/)
 
 ## Homebrew
 
@@ -146,9 +170,7 @@
 ## In-Browser Coding
 
 - [CodePen](https://codepen.io)
-- [JS Fiddle](https://jsfiddle.net)
 - [Liveweave](http://liveweave.com)
-- [Server Side Code](https://repl.it)
 
 ## Image Compression
 
@@ -167,9 +189,7 @@
 - [Header Lover](http://www.headerlove.com/)
 - [Very Nice Sites](http://www.verynicesites.com/)
 - [One Page Love](https://onepagelove.com/)
-- [Flat DSGN](http://flatdsgn.com/)
 - [Awwwards](http://www.awwwards.com/)
-- [Brief Generator](http://briefgenerator.com/)
 - [Behance](https://www.behance.net/)
 - [Site Inspire](http://www.siteinspire.com/)
 - [Land Book](http://land-book.com/)
@@ -177,31 +197,13 @@
 - [Call To Idea](http://www.calltoidea.com/)
 - [AWWWards](http://www.awwwards.com/)
 - [Codrops' playground](http://tympanus.net/codrops/category/playground/)
-- [Panda - Collections for designers](http://usepanda.com/app/)
-- [Minimalist Gallery](http://www.siiimple.com/)
-- [Collection by #2E353F](https://dribbble.com/colors/2E353F)
 - [Beautiful sites for Open Source projects](http://beautifulopen.com/)
 - [Moodboard](http://www.gomoodboard.com/)
-- [Uber](https://www.uber.com/)
 - [Hyperakt](http://hyperakt.com)
 - [Jacob Tomlinson's minimal blog](http://www.jacobtomlinson.co.uk/)
 - [Jason Cha's DailyBible](http://jasoncho.ca/portfolio/dailybible/)
-- [Iuvo's playground](http://www.iuvo.si/play)
 - [JS demos](http://davidwalsh.name/codepen-demos)
-- [Flat Surface Shader demo](http://matthew.wagerfield.com/flat-surface-shader/)
 - [A collection of active backgrounds](http://codepen.io/collection/ACqoJ/)
-- [A baseline for Front-End developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
-- [Gestalt Principles](http://sixrevisions.com/web_design/gestalt-principles-applied-in-design/)
-- [The role of visual design](http://www.lukew.com/ff/entry.asp?1915)
-- [Clean up your mess](http://www.visualmess.com/)
-- [The boring Designer](http://blog.capwatkins.com/the-boring-designer)
-- [Paralyzed by choice in Front-End development](http://modernweb.com/2014/03/31/paralyzed-by-choice-in-front-end-development/)
-- [How to cultivate culture in online communities](http://www.sitebuilderreport.com/blog/6-ways-to-cultivate-culture-on-a-website)
-- [Most common technical interview questions for front end developers](http://www.frontendjournal.com/most-common-technical-interview-question-for-frontend-developers/)
-- [10 best free ebooks for designers](http://despreneur.com/10-best-free-ebooks-for-designers/)
-- [Google's best practices for modern web development](https://developers.google.com/web/fundamentals/)
-- [Google design principles ands material design](http://www.google.com/design/)
-- [User Personas](https://www.flickr.com/photos/jasontravis/sets/72157603258446753/)
 - [Briefbox - practice design briefs](http://briefbox.me/)
 
 ## Jekell
@@ -210,7 +212,34 @@
 
 ## Lorem Ipsum
 
+- [Lorem Ipsum](https://loremipsum.io/)
 - [Lorem Ipsum History](https://loremipsum.io/)
+- [Text Content Generator](http://www.lipsum.com)
+- [Lipsum](http://www.lipsum.com/)
+- [Not Lorem Ipsum](http://notloremipsum.com/)
+- [Fillerama](http://chrisvalleskey.com/fillerama/)
+- [Fillerati](http://www.fillerati.com/)
+- [Picksum Ipsum](http://www.picksumipsum.co.uk/)
+- [Corporate Ipsum](http://www.cipsum.com/)
+- [UI Names](http://uinames.com/)
+- [Webpage FX](https://www.webpagefx.com/web-design/html-ipsum/)
+- [Trollem Ipsum](http://trollemipsum.appspot.com/)
+- [Mainer Ipsum](http://maineripsum.com/)
+- [Office Ipsum](http://officeipsum.com/)
+- [Cupcake Ipsum](http://www.cupcakeipsum.com/)
+- [Cheese Ipsum](http://www.cheeseipsum.co.uk/)
+- [Hacker Ipsum](http://hackeripsum.com/)
+- [Hariy Lipsum](http://hairylipsum.com/)
+- [Bacon Ipsum](https://baconipsum.com/)
+- [Trump Ipsum](https://trumpipsum.net/)
+- [90's Ipsum](https://justinjay.wang/90s-ipsum/)
+- [TV Ipsum](https://tvipsum.com/)
+- [Star Trek Ipsum](https://vlad-saling.github.io/star-trek-ipsum/)
+- [Markdown](https://jaspervdj.be/lorem-markdownum/)
+
+## Meta
+
+- [Meta Data](https://www.tutorialspoint.com/html/html_meta_tags.htm)
 
 ## NodeJS
 
@@ -236,18 +265,28 @@
 - [Home of the first website](http://info.cern.ch)
 - [Webcode](https://webcode.tools/)
 - [Type Scale](http://type-scale.com/)
-- [Choosing the right hosting](http://www.pintsizedgiants.co.uk/blog/8/choosing_the_right_hosting)
-- [HTML/JS/DOM/CSS hacks](http://www.quora.com/Web-Development/What-are-the-most-interesting-HTML-JS-DOM-CSS-hacks-that-most-web-developers-dont-know-about)
-- [Backend development bookmarks](https://gist.github.com/dypsilon/5819528)
-- [50 CSS Libraries, Frameworks and Tools from 2014](http://speckyboy.com/2014/06/02/css-libraries-frameworks-tools/)
-- [Web Field Manual](http://webfieldmanual.com/)
-- [Tevko's resources](https://github.com/tevko/Resources)
+- [home of the first website](http://info.cern.ch/)
+- [Project Honey Pot](https://www.projecthoneypot.org/)
+- [EFF](https://www.eff.org/)
+- [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html)
+- [Have I Been Pawned](https://haveibeenpwned.com/)
+- [Secure List](https://securelist.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Google Open Directory Search](http://palined.com/search/)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [Spam domain blacklist](http://www.joewein.de/sw/blacklist.htm)
+- [The Hacker NEws](https://thehackernews.com/?m=1)
+- [Webhosting Talk](http://www.webhostingtalk.com/)
+- [Section 508](https://www.section508.gov/)
+- [HTTP Archice](https://httparchive.org/reports)
+- [Terms and Condition Generator](https://termsandcondiitionssample.com/download.php?lang=en&token=zXtAjbGbc0jOreH9rGdQdfRiff4BnwVE#)
+- [Most common technical interview questions for front end developers](http://www.frontendjournal.com/most-common-technical-interview-question-for-frontend-developers/)
+- [10 best free ebooks for designers](http://despreneur.com/10-best-free-ebooks-for-designers/)
+- [Google's best practices for modern web development](https://developers.google.com/web/fundamentals/)
 
-## Playgrounds
+## Projects
 
-- [Codepen](https://codepen.io/)
-- [SassMeister](https://www.sassmeister.com/)
-- [JSFiddle](https://jsfiddle.net/)
+- [Zippopotam.us project](http://zippopotam.us/#)
 
 ## PHP
 
@@ -264,19 +303,47 @@
 
 ## Site Status
 
--[G Suite](https://www.google.com/appsstatus#hl=en&v=status&ts=1534996799000)
+- [Deadlink Checker](https://www.deadlinkchecker.com/)
+- [G Suite](https://www.google.com/appsstatus#hl=en&v=status&ts=1534996799000)
+- [Site Down](https://sitedown.co/)
+- [Outage Report](https://outage.report/)
+- [Website DOwn](http://www.websitedown.info/)
+
+### Sit Status (Specific Sites)
+
+- [Github](https://status.github.com/messages)
+- [Apple](https://www.apple.com/support/systemstatus/)
+- [Amazon](https://status.aws.amazon.com/)
+- [NPM](https://status.npmjs.org/)
+- [Pearson](https://status.pearson.com/#/home)
+- [WP Engine](https://wpenginestatus.com/)
+- [Blackboard](http://status.blackboard.com/)
 
 ## SEO
 
 - [Varvy](https://varvy.com/)
+- [Keyword List Generator](https://www.newsunseo.com/seo/keyword-list-generator-tool)
+- [Mega Tags](https://megatags.co/)
+- [Enhanced Meta Tag Generator](http://tools.seochat.com/tools/enhanced-meta-tag-generator/#sthash.eSoAmk7e.dpbs)
+- [Webnots](https://www.webnots.com/)
+- [SEO Book](http://tools.seobook.com/meta-medic/)
 
 ## SASS
 
 - [Getting Started With SASS](https://scotch.io/tutorials/getting-started-with-sass)
+- [Devhints](https://devhints.io/sass)
+- [Groupbuddies Sass project architecture and style guide](http://blog.groupbuddies.com/posts/32-our-css-sass-project-architecture-and-styleguide)
+- [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css)
+- [SassMeister](https://www.sassmeister.com/)
+- [Scotch](https://scotch.io/tutorials/getting-started-with-sass)
+- [SASS Lang](https://sass-lang.com/install)
+- [Primitive Minimalist SASS boilerplate](https://taniarascia.github.io/primitive/#sass-main)
 
 ## Speed Test
 
 - [Speed & Performance Testing](https://tools.keycdn.com/speed)
+- [ATT](http://speedtest.att.com/speedtest/)
+- [COX](https://www.cox.com/residential/support/internet/speedtest.html)
 - [Pingdom Speed Test](https://tools.pingdom.com/)
 - [Ookla ](http://www.speedtest.net/)
 
@@ -333,45 +400,35 @@
 - [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
 - [User managaement in node.js](http://devcenter.kinvey.com/nodejs/guides/users)
 - [node.js guides](http://devcenter.kinvey.com/nodejs/guides)
-- [Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
-- [5 practical AngularJS examples](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/)
-- [Getting started with OAuth](https://oauth.io/getting-started?javascript&php)
 - [Jekyll resume](https://github.com/philipithomas/jekyll-resume/)
 
-## UX and UI
+<!-- ## UX and UI
 
 - [10 differences between UX and UI designers](http://www.thedesignpotato.com/10-differences-between-ux-designer-and-ui-designer/)
 - [UX crash course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 - [Google's UX design approach](http://www.fastcodesign.com/1672657/google-s-dead-simple-tool-for-making-ux-decisions-2-jars-of-marbles?utm_source)
-- [Flat UI Colors](http://flatuicolors.com/)
 - [Good UI - tips for building good UIs](http://www.goodui.org/index_v2.html)
 - [Free UX Resources](http://uxmessiah.com/free-ux-resources-part-1/)
 - [User onboarding teardowns](http://www.useronboard.com/onboarding-teardowns/)
 - [A/B testing with PHP](http://phpabtest.com/)
-- [Google Content Experiments](https://support.google.com/analytics/answer/1745147?hl=en&ref_topic=1745207&rd=1)
+- [Google Content Experiments](https://support.google.com/analytics/answer/1745147?hl=en&ref_topic=1745207&rd=1) -->
 
-## Validation & Compatibility
+## Validation
 
 - [Validate HTML](https://validator.w3.org)
+- [W3C Devoloper](http://w3c.github.io/developers/tools)
 - [Validate CSS](https://jigsaw.w3.org/css-validator)
 - [Check Browser Compatibility](https://caniuse.com/)
 - [ES6+ Compatibility Table](https://kangax.github.io/compat-table/es6/)
+
+## Webmaster Tools
+
+- [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster/?lc=1033)
 
 ## Wireframe
 
 - [In Browser Wireframing](https://app.moqups.com)
 - [Very Basic In Browser Wireframing](https://wireframe.cc)
-
-## Wordpress
-
-- [Wordpress Design Handbook](https://make.wordpress.org/design/handbook/)
-- [Wordpress Theme Handbook](https://developer.wordpress.org/themes/)
-- [Wordpress Devolopers](https://developer.wordpress.com/)
-- [Wordpress Testing](http://wptest.io/)
-- [Wordpress Functions](http://www.wpfunction.me/)
-- [Filler Text for WP Testing](http://www.wpfill.me/)
-- [Post Type Generator](https://generatewp.com/post-type/)
-- [VISUALIZE THE WORDPRESS TEMPLATE HIERARCHY](https://wphierarchy.com/)
 
 ## Workflow
 
@@ -385,14 +442,31 @@
 - [Yeoman - the web's scaffolding tool](http://yeoman.io/)
 - [Periodic table of web design process](http://i.imgur.com/hqGsw2k.jpg)
 - [How to start a web design project](http://designmodo.com/web-design-project/)
-- [Finding a winning workflow for frontend development](http://blog.slant.co/post/95896285907/finding-a-winning-workflow-for-frontend-development)
+
+## Yarn
+
+- [Yarn](https://yarnpkg.com/en/docs/getting-started)
+
+# Wordpress
+
+- [Wordpress Design Handbook](https://make.wordpress.org/design/handbook/)
+- [Wordpress Theme Handbook](https://developer.wordpress.org/themes/)
+- [Wordpress Devolopers](https://developer.wordpress.com/)
+- [Wordpress Testing](http://wptest.io/)
+- [Wordpress Functions](http://www.wpfunction.me/)
+- [Filler Text for WP Testing](http://www.wpfill.me/)
+- [Post Type Generator](https://generatewp.com/post-type/)
+- [VISUALIZE THE WORDPRESS TEMPLATE HIERARCHY](https://wphierarchy.com/)
+- [WP Beginner](https://www.wpbeginner.com/)
 
 ### Generator
 
 - [WebDev Studio WP Generator](https://wdunderscores.com/)
 - [Underscore](https://underscores.me/)
 - [Understrap](https://understrap.com/)
+- [Generate WP Post Type](https://generatewp.com/post-type/)
 - [HTML5Blank for WP](http://html5blank.com/)
+- [WPPB](https://wppb.me/)
 
 ### Boilerplate
 
@@ -405,10 +479,6 @@
 - [WPFILL ME](http://www.wpfill.me/)
 - [WP Theme Test](http://themetest.wordpress.com)
 - [WP Test Data](http://wptest.io/demo)
-
-## Yarn
-
-- [Yarn](https://yarnpkg.com/en/docs/getting-started)
 
 # Typograph
 
@@ -466,6 +536,7 @@
 
 - [Fontello](http://fontello.com/)
 - [Fontastic](http://fontastic.me/)
+- [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
 - [Icomoon App](https://icomoon.io/app/)
 
 # Fillers
@@ -489,19 +560,9 @@
 - [FreeVectors, mockups](https://www.freepik.com)
 - [Dummy Image Placeholders](https://placeholder.com)
 
-## Placeholder text
-
-- [Lipsum](http://www.lipsum.com/)
-- [Not Lorem Ipsum](http://notloremipsum.com/)
-- [Fillerama](http://chrisvalleskey.com/fillerama/)
-- [Fillerati](http://www.fillerati.com/)
-- [Picksum Ipsum](http://www.picksumipsum.co.uk/)
-- [Corporate Ipsum](http://www.cipsum.com/)
-- [UI Names](http://uinames.com/)
-
 ## Plugins
 
-- [Shepherd - Guide your users through a tour of your app](http://github.hubspot.com/shepherd/docs/welcome/)
+- [Shepherd](http://github.hubspot.com/shepherd/docs/welcome/)
 - [HTML5 slider with range support](https://github.com/fryn/html5slider)
 - [jQRangeSlider](http://ghusse.github.io/jQRangeSlider/demo.html)
 - [Chosen - Better select boxes](http://www.webdevsnippets.com/)
@@ -517,6 +578,7 @@
 - [Subtle Patterns](http://subtlepatterns.com/)
 - [Place Pattern](http://placepattern.com)
 - [The Pattern Library](http://thepatternlibrary.com)
+  https://bennettfeely.com/clippy/
 
 ## Placeholder Images
 
@@ -526,6 +588,8 @@
 - [PlaceIMG](https://placeimg.com/)
 - [PlaceKitten](http://placekitten.com/)
 - [PLACEHOLD.IT](https://placehold.it/)
+- [IMG Placeholder](https://imgplaceholder.com/)
+- [Dummy Images](https://dummyimage.com/)
 
 ## Free stock videos
 
@@ -543,6 +607,62 @@
 - [Raumrot](http://www.raumrot.com/10/)
 - [Death to the stock photo](http://deathtothestockphoto.com/)
 - [The stocks](http://thestocks.im/)
+
+# Cyber Security
+
+- [Threatpost](https://threatpost.com/)
+
+# Business
+
+- [Freelancer life](http://papermine.com/pub/917#cover)
+- [Simple contract template](https://www.docracy.com/3884/contract-of-works-for-web-design)
+- [33 ways to get more clients](http://blog.slant.co/post/95896285907/finding-a-winning-workflow-for-frontend-development)
+- [Avoiding client headache](http://uxmovement.com/resources/how-to-avoid-client-headache-as-a-freelance-designer/)
+- [Don't screw up client presentations](https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c)
+- [Starting and running your own business](http://www.jamesaltucher.com/2013/08/the-ultimate-cheat-sheet-to-starting-and-running-your-own-business/)
+- [Business Validation Cheat Sheet](http://s3.appsumo.com/ValidationCheatSheet.pdf)
+
+# Aggregators & News
+
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [Codrops](https://tympanus.net/codrops/)
+- [Front-End Front Basically, front-end news](https://frontendfront.com/)
+- [Echo JS JavaScript News](http://www.echojs.com/)
+- [A list Apart Code](https://alistapart.com/topic/code)
+- [Scotch Code Eat Sleep Loop](https://scotch.io/)
+- [Web design weekly](http://web-design-weekly.com/)
+- [Sidebar](http://marvelapp.github.io/devices.css/)
+- [AWWWards](http://www.awwwards.com/)
+- [A list apart](http://alistapart.com/)
+- [The Neo Design](http://theneodesign.com/)
+- [Codrops](http://tympanus.net/codrops/)
+- [TechCrunch](http://techcrunch.com/)
+- [SitePoint](http://www.sitepoint.com/)
+- [Smashing Magazine](http://www.smashingmagazine.com/)
+- [Speckyboy](http://speckyboy.com/)
+- [Vandelay design's blog](http://vandelaydesign.com/blog/)
+- [Hack design](http://hackdesign.org/)
+- [Line 25](http://line25.com/)
+- [Web Dev Snippets](http://www.webdevsnippets.com/)
+- [Codular](http://codular.com/)
+- [Lonely pixel](http://www.lonely-pixel.com/)
+- [SiteBuilderReport](http://www.sitebuilderreport.com/blog)
+- [Codacy](http://blog.codacy.com/)
+- [Code School Blog](http://www.codeschool.com/blog/)
+- [Web Designer Depot](http://www.webdesignerdepot.com/)
+
+## Newsletters
+
+- [Frontend Focus](https://frontendfoc.us/)
+- [CSS Weekly](http://css-weekly.com/)
+- [JavaScript Weekly](http://javascriptweekly.com/)
+- [WebTools Weekly](https://webtoolsweekly.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/)
+- [Sidebar](https://sidebar.io/)
+- [Responsive Design Weekly](http://responsivedesignweekly.com/)
+- [JSK Weekly](https://javascriptkicks.com/)
+- [WebRTC Weekly](https://webrtcweekly.com/)
 
 # Jobs
 
@@ -608,55 +728,3 @@
 - [Skip The Drive](https://www.skipthedrive.com)
 - [Working Nomads](https://www.workingnomads.co/jobs)
 - [Flex Jobs](https://www.flexjobs.com)
-
-# Business
-
-- [Freelancer life](http://papermine.com/pub/917#cover)
-- [Simple contract template](https://www.docracy.com/3884/contract-of-works-for-web-design)
-- [33 ways to get more clients](http://blog.slant.co/post/95896285907/finding-a-winning-workflow-for-frontend-development)
-- [Avoiding client headache](http://uxmovement.com/resources/how-to-avoid-client-headache-as-a-freelance-designer/)
-- [Don't screw up client presentations](https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c)
-- [Starting and running your own business](http://www.jamesaltucher.com/2013/08/the-ultimate-cheat-sheet-to-starting-and-running-your-own-business/)
-- [Business Validation Cheat Sheet](http://s3.appsumo.com/ValidationCheatSheet.pdf)
-
-# Aggregators & News
-
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [CSS-Tricks](https://css-tricks.com/)
-- [Codrops](https://tympanus.net/codrops/)
-- [Front-End Front Basically, front-end news](https://frontendfront.com/)
-- [Echo JS JavaScript News](http://www.echojs.com/)
-- [A list Apart Code](https://alistapart.com/topic/code)
-- [Scotch Code Eat Sleep Loop](https://scotch.io/)
-- [Web design weekly](http://web-design-weekly.com/)
-- [Sidebar](http://marvelapp.github.io/devices.css/)
-- [AWWWards](http://www.awwwards.com/)
-- [A list apart](http://alistapart.com/)
-- [The Neo Design](http://theneodesign.com/)
-- [Codrops](http://tympanus.net/codrops/)
-- [TechCrunch](http://techcrunch.com/)
-- [SitePoint](http://www.sitepoint.com/)
-- [Smashing Magazine](http://www.smashingmagazine.com/)
-- [Speckyboy](http://speckyboy.com/)
-- [Vandelay design's blog](http://vandelaydesign.com/blog/)
-- [Hack design](http://hackdesign.org/)
-- [Line 25](http://line25.com/)
-- [Web Dev Snippets](http://www.webdevsnippets.com/)
-- [Codular](http://codular.com/)
-- [Lonely pixel](http://www.lonely-pixel.com/)
-- [SiteBuilderReport](http://www.sitebuilderreport.com/blog)
-- [Codacy](http://blog.codacy.com/)
-- [Code School Blog](http://www.codeschool.com/blog/)
-- [Web Designer Depot](http://www.webdesignerdepot.com/)
-
-## Newsletters
-
-- [Frontend Focus](https://frontendfoc.us/)
-- [CSS Weekly](http://css-weekly.com/)
-- [JavaScript Weekly](http://javascriptweekly.com/)
-- [WebTools Weekly](https://webtoolsweekly.com/)
-- [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/)
-- [Sidebar](https://sidebar.io/)
-- [Responsive Design Weekly](http://responsivedesignweekly.com/)
-- [JSK Weekly](https://javascriptkicks.com/)
-- [WebRTC Weekly](https://webrtcweekly.com/)
