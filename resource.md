@@ -3,7 +3,7 @@
 ### Things I have learned and found along the way that helped. Open and visit links at your own risk. The links are in no particular order. The links do not representate promotional of any specific site or product.
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg)
+![GitHub contributors](https://img.shields.io/badge/contributors-1-red.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
 
 ---
