@@ -213,7 +213,7 @@
 
 ## Jekell
 
-- [Jekell](https://jekyllrb.com/)
+- [Jekyll](https://jekyllrb.com/)
 
 ## Lorem Ipsum
 
