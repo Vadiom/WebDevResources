@@ -213,7 +213,7 @@
 
 ## Jekell
 
-- [Jekell](https://jekyllrb.com/)
+- [Jekyll](https://jekyllrb.com/)
 
 ## Lorem Ipsum
 
@@ -471,7 +471,7 @@
 - [Da Font](http://www.dafont.com/)
 - [1001 Fonts](http://www.1001fonts.com/)
 - [Typ.io - Fonts that go together](http://www.typ.io/)
-- [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
+- [Beautiful Web Type](https://beautifulwebtype.com)
 - [Google web fonts typography](http://femmebot.github.io/google-type/)
 - [Blokk font](http://blokkfont.com/)
 
