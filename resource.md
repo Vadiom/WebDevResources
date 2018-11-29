@@ -211,6 +211,10 @@
 - [A collection of active backgrounds](http://codepen.io/collection/ACqoJ/)
 - [Briefbox - practice design briefs](http://briefbox.me/)
 
+## JS
+
+- [Chart JS](https://www.chartjs.org/)
+
 ## Jekell
 
 - [Jekyll](https://jekyllrb.com/)
