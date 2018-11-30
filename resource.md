@@ -27,6 +27,7 @@
 - [HTML Tutorials](http://www.htmldog.com/)
 - [MarkSheet A free HTML & CSS tutorial](http://marksheet.io/)
 - [Learn to code HTML & CSS Shay Howe](http://learn.shayhowe.com/html-css/)
+- [HTML Form Resource](http://form.guide/)
 
 ## CSS
 
