@@ -83,6 +83,7 @@
 - [HTML Color Codes](https://htmlcolorcodes.com/)
 - [Rapid Tables](https://www.rapidtables.com/web/color/index.html)
 - [Color Picker](https://htmlcolorcodes.com/)
+- [Color Explorer](http://www.colorexplorer.com)
 - [Flat UI Colors](http://flatuicolors.com/)
 - [Colordot](https://color.hailpixel.com)
 - [Color Schemes Generator](https://coolors.co/)
@@ -486,6 +487,7 @@
 
 - [Font Pair](http://fontpair.co/)
 - [Type genius](http://www.typegenius.com/)
+- [Golden Ratio Typography](https://grtcalculator.com/)
 - [Type Scale](http://type-scale.com/)
 - [Typewolf](https://www.typewolf.com/)
 
