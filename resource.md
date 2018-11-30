@@ -150,6 +150,7 @@
 
 ## Generators
 
+- [Random Numbers - Strings](https://www.random.org/)
 - [Data Generator ](https://mockaroo.com/)
 - [Mobile Mockup Generator](https://mockuphone.com)
 - [Logo Generator ](https://www.logaster.com)
