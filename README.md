@@ -1,3 +1,5 @@
+![](images/markus-spiske-507983-unsplash.jpg)
+
 # Web Devoloper Resources
 
 > A collection of website devoloper resources for the newbie.
