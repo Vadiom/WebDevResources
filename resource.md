@@ -1,5 +1,6 @@
-<!-- ![](images/markus-spiske-507983-unsplash.jpg) -->
-<img src="images/markus-spiske-507983-unsplash.jpg" width=500px height=300px>
+![](images/markus-spiske-507983-unsplash.jpg)
+
+<!-- <img src="images/markus-spiske-507983-unsplash.jpg" width=500px height=300px> -->
 
 # Resource's for Web Devolopers
 
@@ -28,6 +29,8 @@
 
 ## HTML
 
+<img src="images/html5.svg" alt="CSS3" width=100px height=100px>
+
 - [HTML Reference](http://htmlreference.io/)
 - [HTML Tutorials](http://www.htmldog.com/)
 - [MarkSheet A free HTML & CSS tutorial](http://marksheet.io/)
@@ -35,6 +38,8 @@
 - [HTML Form Resource](http://form.guide/)
 
 ## CSS
+
+<img src="images/css3.svg" alt="CSS3" width=100px height=100px>
 
 - [CSS guidelines](http://cssguidelin.es/)
 - [CSS Reference](http://cssreference.io/)
@@ -45,19 +50,21 @@
 - [CSS Button Generator](http://css3buttongenerator.com)
 - [Responsive UI Examples](https://semantic-ui.com/examples/responsive.html)
 
+# Introduction to JavaScript
+
+<img src="images/javascript.svg" alt="CSS3" width=100px height=100px>
+
+- [An Introduction To Javascript](https://javascript.info/intro)
+- [Javascript Basics](https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf)
+- [Idiomatic JS](https://github.com/rwaldron/idiomatic.js)
+- [JSFiddle](https://jsfiddle.net/)
+
 ### Cheat Sheets
 
 - [HTML Cheat Sheet Compilation](https://websitesetup.org/html5-cheat-sheet/)
 - [HTML5 Tutorial PDF Tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
 - [Responsive breakpoint cheatsheet](https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf)
 - [Audreyr’s Favicon cheat sheet](https://github.com/audreyr/favicon-cheat-sheet)
-
-# Introduction to JavaScript
-
-- [An Introduction To Javascript](https://javascript.info/intro)
-- [Javascript Basics](https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf)
-- [Idiomatic JS](https://github.com/rwaldron/idiomatic.js)
-- [JSFiddle](https://jsfiddle.net/)
 
 # Tools and Editors
 
@@ -70,6 +77,8 @@
 - [Apache](https://httpd.apache.org/)
 
 ## Bootstrap
+
+<img src="images/bootstrap.svg" alt="CSS3" width=100px height=100px>
 
 - [Get Bootstrap](https://getbootstrap.com/)
 - [Bootstrap Build](https://bootstrap.build/)
@@ -164,6 +173,8 @@
 
 ## Git
 
+<img src="images/github.svg" alt="CSS3" width=100px height=100px>
+
 - [GitHub](https://github.com/)
 - [Git Icons](https://shields.io/#/)
 - [Git Scm](https://git-scm.com/)
@@ -192,6 +203,8 @@
 - [Grunt](https://gruntjs.com/)
 
 ## Gulp
+
+<img src="images/gulp.svg" alt="CSS3" width=100px height=100px>
 
 - [Gulp](https://gulpjs.com/)
 
@@ -288,6 +301,8 @@
 - [MySQL](https://www.mysql.com/)
 
 ## NodeJS
+
+<!-- <img src="images/npm.svg" alt="CSS3" width=100px height=100px> -->
 
 - [NPM](https://www.npmjs.com/)
 

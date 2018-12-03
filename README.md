@@ -1,5 +1,7 @@
-<!-- ![](images/markus-spiske-507983-unsplash.jpg) -->
-<img src="images/markus-spiske-507983-unsplash.jpg" width=500px height=300px>
+![](images/markus-spiske-507983-unsplash.jpg)
+
+<!-- <img src="images/markus-spiske-507983-unsplash.jpg" width=500px height=300px> -->
+
 # Web Devoloper Resources
 
 > A collection of website devoloper resources for the newbie.
