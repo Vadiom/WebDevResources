@@ -29,7 +29,7 @@
 
 ## HTML
 
-<img src="images/html5.svg" alt="CSS3" width=100px height=100px>
+<img src="images/html5.svg" alt="html5" width=100px height=100px>
 
 - [HTML Reference](http://htmlreference.io/)
 - [HTML Tutorials](http://www.htmldog.com/)
@@ -52,7 +52,7 @@
 
 # Introduction to JavaScript
 
-<img src="images/javascript.svg" alt="CSS3" width=100px height=100px>
+<img src="images/javascript.svg" alt="js" width=100px height=100px>
 
 - [An Introduction To Javascript](https://javascript.info/intro)
 - [Javascript Basics](https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf)
@@ -78,7 +78,7 @@
 
 ## Bootstrap
 
-<img src="images/bootstrap.svg" alt="CSS3" width=100px height=100px>
+<img src="images/bootstrap.svg" alt="bootstrap" width=100px height=100px>
 
 - [Get Bootstrap](https://getbootstrap.com/)
 - [Bootstrap Build](https://bootstrap.build/)
@@ -173,7 +173,7 @@
 
 ## Git
 
-<img src="images/github.svg" alt="CSS3" width=100px height=100px>
+<img src="images/github.svg" alt="git" width=100px height=100px>
 
 - [GitHub](https://github.com/)
 - [Git Icons](https://shields.io/#/)
@@ -204,7 +204,7 @@
 
 ## Gulp
 
-<img src="images/gulp.svg" alt="CSS3" width=100px height=100px>
+<img src="images/gulp.svg" alt="gulp" width=100px height=100px>
 
 - [Gulp](https://gulpjs.com/)
 
@@ -301,8 +301,6 @@
 - [MySQL](https://www.mysql.com/)
 
 ## NodeJS
-
-<!-- <img src="images/npm.svg" alt="CSS3" width=100px height=100px> -->
 
 - [NPM](https://www.npmjs.com/)
 
@@ -507,7 +505,7 @@
 ### Boilerplate
 
 - [Wordpress Plugin Boilerplate](http://wppb.io/)
-- [WORDPRESS PLUGIN BOILERPLATE GENERATOR](https://wppb.me/)
+  <!-- - [WORDPRESS PLUGIN BOILERPLATE GENERATOR](https://wppb.me/) -->
 
 ### Dummy Data
 
