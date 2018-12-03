@@ -1,5 +1,5 @@
-![](images/markus-spiske-507983-unsplash.jpg)
-
+<!-- ![](images/markus-spiske-507983-unsplash.jpg) -->
+<img src="images/markus-spiske-507983-unsplash.jpg" width=500px height=300px>
 
 # Resource's for Web Devolopers
 
