@@ -17,7 +17,7 @@
 - [What is Internet? @ Code.Org](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 - [How Does the Internet Work? @ Seeker](https://www.youtube.com/watch?v=7XoaoFjKqYM)
 - [How does the internet work? Part 1 (It's like a bad drawing.) @ DevTips](https://www.youtube.com/watch?v=XZIMEoUhOA8)
-- [How does the internet work? - Part 2 (Organize your HTML Project) @ DevTips](https://www.youtube.com/watch?v=8b7wObfC8VM)
+- [How does the internet work? Part 2 (Organize your HTML Project) @ DevTips](https://www.youtube.com/watch?v=8b7wObfC8VM)
 - [How the Internet Works for Developers Pt 1 Overview & Frontend @ LearnCode.academy](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
 - [How Does the Internet Work? By Rus Shuler](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 
