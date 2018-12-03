@@ -14,10 +14,12 @@
 
 # Introduction to the Internet
 
-- [How the Internet Works for Developers Pt 1 Overview & Frontend @ LearnCode.academy](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
 - [What is Internet? @ Code.Org](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
-- [How does the internet work? Part 1 (It's like a bad drawing.) @ DevTips](https://www.youtube.com/watch?v=XZIMEoUhOA8)
 - [How Does the Internet Work? @ Seeker](https://www.youtube.com/watch?v=7XoaoFjKqYM)
+- [How does the internet work? Part 1 (It's like a bad drawing.) @ DevTips](https://www.youtube.com/watch?v=XZIMEoUhOA8)
+- [How does the internet work? - Part 2 (Organize your HTML Project) @ DevTips](https://www.youtube.com/watch?v=8b7wObfC8VM)
+- [How the Internet Works for Developers Pt 1 Overview & Frontend @ LearnCode.academy](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
+- [How Does the Internet Work? By Rus Shuler](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 
 # Introduction to HTML5 & CSS3
 
@@ -56,9 +58,13 @@
 
 # Tools and Editors
 
+## Angular
+
+- [Angular](https://angular.io/)
+
 ## Apache
 
-- [Apache Cordova - platform for building native mobile applications](http://cordova.apache.org/)
+- [Apache](https://httpd.apache.org/)
 
 ## Bootstrap
 
@@ -72,6 +78,14 @@
 ## Bourbon
 
 - [Bourbon](https://www.bourbon.io/)
+
+## Bower
+
+- [Bower](https://bower.io/)
+
+## BrowserSync
+
+- [BrowserSync](https://www.browsersync.io/)
 
 ## Composer
 
@@ -106,6 +120,10 @@
 - [Sass Converter](https://www.sassmeister.com/)
 - [Markdown Editor](https://stackedit.io)
 
+## Cordova
+
+- [Cordova](https://cordova.apache.org/)
+
 ## Cross-Browser Compatibility
 
 - [Can I Use](https://caniuse.com/)
@@ -124,6 +142,10 @@
 - [IP Info](https://ipinfo.info/)
 - [Debouncer](https://www.debouncer.com/?attempt=1)
 
+## Docker
+
+- [Docker](https://www.docker.com/)
+
 ## Editors
 
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -136,10 +158,6 @@
 - [Favicons](http://www.favicomatic.com/)
 - [Favicon.cc](http://www.favicon.cc/)
 - [Real Favicon Generator](http://realfavicongenerator.net/)
-
-## Gulp
-
-- [Gulp](https://gulpjs.com/)
 
 ## Git
 
@@ -165,6 +183,10 @@
 - [The Green Web Foundation](https://www.thegreenwebfoundation.org/)
 - [ECO Grader](https://ecograder.com/)
 - [Website Carbon](https://www.websitecarbon.com/)
+
+## Grunt
+
+- [Grunt](https://gruntjs.com/)
 
 ## Gulp
 
@@ -253,6 +275,14 @@
 ## Meta
 
 - [Meta Data](https://www.tutorialspoint.com/html/html_meta_tags.htm)
+
+## MongoDB
+
+- [MongoDB](https://www.mongodb.com/)
+
+## MySQL
+
+- [MySQL](https://www.mysql.com/)
 
 ## NodeJS
 
@@ -432,6 +462,10 @@
 ## Yarn
 
 - [Yarn](https://yarnpkg.com/en/docs/getting-started)
+
+## Yeoman
+
+- [Yeoman](http://yeoman.io/)
 
 # Wordpress
 
