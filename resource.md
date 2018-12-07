@@ -58,6 +58,8 @@
 - [Javascript Basics](https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf)
 - [Idiomatic JS](https://github.com/rwaldron/idiomatic.js)
 - [JSFiddle](https://jsfiddle.net/)
+- [Chart JS](https://www.chartjs.org/)
+- [Java Script Coder](http://javascript-coder.com/)
 
 ### Cheat Sheets
 
@@ -255,11 +257,6 @@
 - [JS demos](http://davidwalsh.name/codepen-demos)
 - [A collection of active backgrounds](http://codepen.io/collection/ACqoJ/)
 - [Briefbox - practice design briefs](http://briefbox.me/)
-
-## JS
-
-- [Chart JS](https://www.chartjs.org/)
-- [Java Script Coder](http://javascript-coder.com/)
 
 ## Jekell
 
