@@ -143,6 +143,7 @@
 ## DNS
 
 - [View DNS](https://viewdns.info/)
+- [Database of Top Level Domains](http://www.iana.org/)
 - [Whats My IP](http://www.whatsmyip.org/)
 - [Google DNS Toolbox](https://toolbox.googleapps.com/apps/main/)
 - [DNS Dumpster](https://dnsdumpster.com)
@@ -197,6 +198,9 @@
 - [The Green Web Foundation](https://www.thegreenwebfoundation.org/)
 - [ECO Grader](https://ecograder.com/)
 - [Website Carbon](https://www.websitecarbon.com/)
+- [Green Electronics Council](http://greenelectronicscouncil.org/epeat/epeat-overview/)
+- [Energy Star](https://www.energystar.gov/)
+- [EPA E-Waste eCycling](https://www.epa.gov/recycle/electronics-donation-and-recycling)
 
 ## Grunt
 
@@ -338,6 +342,18 @@
 - [Webhosting Talk](http://www.webhostingtalk.com/)
 - [Section 508](https://www.section508.gov/)
 - [HTTP Archice](https://httparchive.org/reports)
+- [Creative Commons](https://creativecommons.org/)
+- [Google Books Library Project](https://www.google.com/googlebooks/library/)
+- [Project Gutenberg](http://www.gutenberg.org/)
+- [Online Computer Library Center](https://www.oclc.org/en/home.html)
+- [Internet2](https://www.internet2.edu/)
+- [Broadband Map - FCC](https://broadbandmap.fcc.gov/#/)
+- [FCC Maps](https://www.fcc.gov/reports-research/maps/)
+- [Super computer list](https://www.top500.org/)
+- [Computer sharing for research](https://boinc.berkeley.edu/)
+- [OpenSignal: 3G and 4G LTE Cell Coverage Map](https://opensignal.com/)
+- [Pew Research Center 2013 Report – Internet Users](http://www.pewinternet.org/2013/09/25/whos-not-online-and-why/)
+- [ITU STATISTICS](https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx)
 - [Google's best practices for modern web development](https://developers.google.com/web/fundamentals/)
 
 ## Projects
@@ -505,7 +521,7 @@
 ### Boilerplate
 
 - [Wordpress Plugin Boilerplate](http://wppb.io/)
-  <!-- - [WORDPRESS PLUGIN BOILERPLATE GENERATOR](https://wppb.me/) -->
+- [Wordpress Plugin Boilerplate Gnerator](https://wppb.me/)
 
 ### Dummy Data
 
@@ -517,6 +533,10 @@
 # Cyber Security
 
 - [Threatpost](https://threatpost.com/)
+- [Internet Crime Complaint Center](https://www.ic3.gov/default.aspx)
+- [Hoax Slayer](https://hoax-slayer.com/)
+- [2016 Dyn cyberattack](https://en.wikipedia.org/wiki/2016_Dyn_cyberattack)
+- [Mcafee Global Virus Map](https://home.mcafee.com/virusinfo/global-virus-map?ctst=1)
 
 # Typograph
 
@@ -656,8 +676,10 @@
 - [Line 25](http://line25.com/)
 - [Codular](http://codular.com/)
 - [Codacy](http://blog.codacy.com/)
+- [Netcraft News](https://news.netcraft.com/)
 - [Code School Blog](http://www.codeschool.com/blog/)
 - [Web Designer Depot](http://www.webdesignerdepot.com/)
+- [Tech Byte Weekly](http://www.techbytesweekly.com/)
 
 ## Newsletters
 
