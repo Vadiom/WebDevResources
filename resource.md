@@ -72,6 +72,8 @@
 
 ## Angular
 
+<img src="images/angular.svg" alt="angular" width=100px height=100px>
+
 - [Angular](https://angular.io/)
 
 ## Apache
@@ -94,6 +96,8 @@
 - [Bourbon](https://www.bourbon.io/)
 
 ## Bower
+
+<img src="images/bower.svg" alt="bower" width=100px height=100px>
 
 - [Bower](https://bower.io/)
 
@@ -158,6 +162,8 @@
 - [Debouncer](https://www.debouncer.com/?attempt=1)
 
 ## Docker
+
+<img src="images/docker.svg" alt="docker" width=100px height=100px>
 
 - [Docker](https://www.docker.com/)
 
@@ -224,13 +230,6 @@
 - [Liveweave](http://liveweave.com)
 - [Code Snadbox](https://codesandbox.io/)
 
-## Image Compression
-
-- [TinyPNG](https://tinypng.com/)
-- [CompressJPG](http://compressjpeg.com/)
-- [Compressor](https://compressor.io/)
-- [Compress JPG](http://jpeg-optimizer.com/)
-
 ## IT Stores
 
 - [Tiger Direct](http://www.tigerdirect.com/)
@@ -258,7 +257,9 @@
 - [A collection of active backgrounds](http://codepen.io/collection/ACqoJ/)
 - [Briefbox - practice design briefs](http://briefbox.me/)
 
-## Jekell
+## Jekyll
+
+<img src="images/jekyll.svg" alt="jekyll" width=100px height=100px>
 
 - [Jekyll](https://jekyllrb.com/)
 
@@ -295,13 +296,19 @@
 
 ## MongoDB
 
+<img src="images/mongodb.svg" alt="mongodb" width=100px height=100px>
+
 - [MongoDB](https://www.mongodb.com/)
 
 ## MySQL
 
+<img src="images/mysql.svg" alt="mysql" width=100px height=100px>
+
 - [MySQL](https://www.mysql.com/)
 
 ## NodeJS
+
+<img src="images/nodejs.svg" alt="nodejs" width=100px height=100px>
 
 - [NPM](https://www.npmjs.com/)
 
@@ -359,9 +366,36 @@
 
 ## PHP
 
+<img src="images/php.svg" alt="rphpuby" width=100px height=100px>
+
 - [PHP.net](http://php.net/)
 
+## Robots.txt
+
+- [Robots.txt.org](http://www.robotstxt.org/)
+- [Robots.txt File Generator](http://tools.seobook.com/robots-txt/generator/)
+- [WebNots](https://www.webnots.com/seo-tools/free-robots-txt-generator)
+- [Google Robots.txt Tester](https://www.google.com/webmasters/tools/robots-testing-tool)
+- [Wordpress Robots.txt Explained](https://wordpress.org/ideas/topic/wordpress-needs-a-default-robotstxt-file-and-more)
+
+### Robot.txt Examples
+
+- [Google.Com](https://www.google.com/robots.txt)
+- [Nike Store](https://store.nike.com/robots.txt)
+- [You Tube](https://www.youtube.com/robots.txt)
+- [Twitter](https://twitter.com/robots.txt)
+- [Yelp](https://www.yelp.com/robots.txt)
+- [ETSY](https://www.etsy.com/robots.txt)
+- [Trip Advisor](https://www.tripadvisor.com/robots.txt)
+- [Seer Interactive](http://www.seerinteractive.com/robots.txt)
+- [Last FM](https://www.last.fm/robots.txt)
+- [Page On Power](https://www.pageonepower.com/robots.txt)
+- [ETSY](https://www.tripadvisor.com/robots.txt)
+- [ETSY](https://www.tripadvisor.com/robots.txt)
+
 ## Ruby Gems
+
+<img src="images/ruby.svg" alt="ruby" width=100px height=100px>
 
 - [Ruby Gems](https://rubygems.org/)
 
@@ -369,6 +403,19 @@
 
 - [Device Testing](http://www.responsinator.com)
 - [What's My Browser Size](https://www.webpagefx.com/tools/whats-my-browser-size/)
+
+## SASS
+
+<img src="images/sass.svg" alt="sass" width=100px height=100px>
+
+- [Getting Started With SASS](https://scotch.io/tutorials/getting-started-with-sass)
+- [Devhints](https://devhints.io/sass)
+- [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css)
+- [SassMeister](https://www.sassmeister.com/)
+- [Scotch](https://scotch.io/tutorials/getting-started-with-sass)
+- [SASS Lang](https://sass-lang.com/install)
+- [Primitive Minimalist SASS boilerplate](https://taniarascia.github.io/primitive/#sass-main)
+- [Groupbuddies Sass project architecture and style guide](http://blog.groupbuddies.com/posts/32-our-css-sass-project-architecture-and-styleguide)
 
 ## Site Status
 
@@ -396,17 +443,8 @@
 - [Enhanced Meta Tag Generator](http://tools.seochat.com/tools/enhanced-meta-tag-generator/#sthash.eSoAmk7e.dpbs)
 - [Webnots](https://www.webnots.com/)
 - [SEO Book](http://tools.seobook.com/meta-medic/)
-
-## SASS
-
-- [Getting Started With SASS](https://scotch.io/tutorials/getting-started-with-sass)
-- [Devhints](https://devhints.io/sass)
-- [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css)
-- [SassMeister](https://www.sassmeister.com/)
-- [Scotch](https://scotch.io/tutorials/getting-started-with-sass)
-- [SASS Lang](https://sass-lang.com/install)
-- [Primitive Minimalist SASS boilerplate](https://taniarascia.github.io/primitive/#sass-main)
-- [Groupbuddies Sass project architecture and style guide](http://blog.groupbuddies.com/posts/32-our-css-sass-project-architecture-and-styleguide)
+- [New Sun SEO](https://www.newsunseo.com/seo/keyword-list-generator-tool)
+- [Google Robot Guidelines](https://support.google.com/webmasters/answer/6062596?hl=en)
 
 ## Speed Test
 
@@ -497,6 +535,8 @@
 - [Yeoman](http://yeoman.io/)
 
 # Wordpress
+
+<img src="images/wordpress.svg" alt="wordpress" width=100px height=100px>
 
 - [Wordpress Design Handbook](https://make.wordpress.org/design/handbook/)
 - [Wordpress Theme Handbook](https://developer.wordpress.org/themes/)
@@ -648,6 +688,13 @@
 - [Raumrot](http://www.raumrot.com/10/)
 - [Death to the stock photo](http://deathtothestockphoto.com/)
 - [The stocks](http://thestocks.im/)
+
+## Image Compression
+
+- [TinyPNG](https://tinypng.com/)
+- [CompressJPG](http://compressjpeg.com/)
+- [Compressor](https://compressor.io/)
+- [Compress JPG](http://jpeg-optimizer.com/)
 
 # Business
 
