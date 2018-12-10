@@ -44,19 +44,16 @@
 - [CSS guidelines](http://cssguidelin.es/)
 - [CSS Reference](http://cssreference.io/)
 - [Class and ID Selectors](http://www.htmldog.com/guides/css/intermediate/classid/)
-- [CSS Reference](https://www.w3schools.com/cssref/default.asp)
 - [PureCSS](https://purecss.io/)
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
 - [CSS Button Generator](http://css3buttongenerator.com)
 - [Responsive UI Examples](https://semantic-ui.com/examples/responsive.html)
 
-# Introduction to JavaScript
+# JavaScript
 
 <img src="images/javascript.svg" alt="js" width=100px height=100px>
 
 - [An Introduction To Javascript](https://javascript.info/intro)
-- [Javascript Basics](https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.pdf)
-- [Idiomatic JS](https://github.com/rwaldron/idiomatic.js)
 - [JSFiddle](https://jsfiddle.net/)
 - [Chart JS](https://www.chartjs.org/)
 - [Java Script Coder](http://javascript-coder.com/)
@@ -64,9 +61,7 @@
 ### Cheat Sheets
 
 - [HTML Cheat Sheet Compilation](https://websitesetup.org/html5-cheat-sheet/)
-- [HTML5 Tutorial PDF Tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
 - [Responsive breakpoint cheatsheet](https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf)
-- [Audreyr’s Favicon cheat sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
 # Tools and Editors
 
@@ -89,7 +84,6 @@
 - [Bootstrap CDN](https://www.bootstrapcdn.com/)
 - [Get Bootsnipps](https://bootsnipp.com/)
 - [Bootstrap Templetes](https://startbootstrap.com/template-categories/all/)
-- [Bootstrap NavBar Builder](https://work.smarchal.com/twbscolor/)
 
 ## Bourbon
 
@@ -137,12 +131,6 @@
 - [Gradient.io](http://www.gradients.io/)
 - [BrandColors](http://brandcolors.net/)
 
-## Converters
-
-- [ES6+ & JSX Compiler](https://babeljs.io/repl)
-- [Sass Converter](https://www.sassmeister.com/)
-- [Markdown Editor](https://stackedit.io)
-
 ## Cordova
 
 - [Cordova](https://cordova.apache.org/)
@@ -165,7 +153,6 @@
 - [Who Is](https://who.is/)
 - [IP Info](https://ipinfo.info/)
 - [Debouncer](https://www.debouncer.com/?attempt=1)
-- [Pingdom Tools](http://tools.pingdom.com/fpt/)
 
 ## Docker
 
@@ -250,7 +237,6 @@
 - [Site Inspire](http://www.siteinspire.com/)
 - [Land Book](http://land-book.com/)
 - [Material Up](http://www.materialup.com/)
-  <!-- - [Call To Idea](http://www.calltoidea.com/) -->
 - [AWWWards](http://www.awwwards.com/)
 - [Codrops' playground](http://tympanus.net/codrops/category/playground/)
 - [Beautiful sites for Open Source projects](http://beautifulopen.com/)
@@ -258,7 +244,6 @@
 - [Hyperakt](http://hyperakt.com)
 - [Jacob Tomlinson's minimal blog](http://www.jacobtomlinson.co.uk/)
 - [Jason Cha's DailyBible](http://jasoncho.ca/portfolio/dailybible/)
-- [A collection of active backgrounds](http://codepen.io/collection/ACqoJ/)
 - [Briefbox - practice design briefs](http://briefbox.me/)
 
 ## Jekyll
@@ -292,6 +277,10 @@
 - [90's Ipsum](https://justinjay.wang/90s-ipsum/)
 - [TV Ipsum](https://tvipsum.com/)
 - [Star Trek Ipsum](https://vlad-saling.github.io/star-trek-ipsum/)
+
+## Markdown
+
+- [Markdown Editor](https://stackedit.io)
 - [Markdown](https://jaspervdj.be/lorem-markdownum/)
 
 ## Meta
@@ -318,14 +307,12 @@
 
 ## Optimization
 
-- [Minify JS & CSS ](http://minifier.org)
 - [Code Optimization Tools](https://codebeautify.org)
 - [Code Diff Checker ](https://www.diffchecker.com)
 - [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [GT Metrix](https://gtmetrix.com/)
 - [WebPage Test](http://www.webpagetest.org/)
 - [Gift of Speed](http://www.giftofspeed.com/)
-- [Responsinator](https://www.responsinator.com/)
 - [Responsive Design Checker](http://responsivedesignchecker.com/)
 - [Am I Responsive?](http://ami.responsivedesign.is/)
 - [Browser Shots](http://browsershots.org/)
@@ -359,9 +346,7 @@
 - [Super computer list](https://www.top500.org/)
 - [Computer sharing for research](https://boinc.berkeley.edu/)
 - [OpenSignal: 3G and 4G LTE Cell Coverage Map](https://opensignal.com/)
-- [Pew Research Center 2013 Report – Internet Users](http://www.pewinternet.org/2013/09/25/whos-not-online-and-why/)
 - [ITU STATISTICS](https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx)
-- [Google's best practices for modern web development](https://developers.google.com/web/fundamentals/)
 
 ## Projects
 
@@ -372,6 +357,7 @@
 <img src="images/php.svg" alt="rphpuby" width=100px height=100px>
 
 - [PHP.net](http://php.net/)
+- [PHP the right way](http://www.phptherightway.com/)
 
 ## Robots.txt
 
@@ -402,7 +388,6 @@
 
 ## Responsiveness
 
-- [Device Testing](http://www.responsinator.com)
 - [What's My Browser Size](https://www.webpagefx.com/tools/whats-my-browser-size/)
 
 ## SASS
@@ -411,10 +396,9 @@
 
 - [Getting Started With SASS](https://scotch.io/tutorials/getting-started-with-sass)
 - [Devhints](https://devhints.io/sass)
-- [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css)
 - [SassMeister](https://www.sassmeister.com/)
-- [Scotch](https://scotch.io/tutorials/getting-started-with-sass)
 - [SASS Lang](https://sass-lang.com/install)
+- [Sass Converter](https://www.sassmeister.com/)
 - [Primitive Minimalist SASS boilerplate](https://taniarascia.github.io/primitive/#sass-main)
 
 ## Site Status
@@ -454,14 +438,10 @@
 - [Pingdom Speed Test](https://tools.pingdom.com/)
 - [Ookla ](http://www.speedtest.net/)
 
-## Templates, Boilerplates, Frameworks and Components
+## Templates
 
-- [Flat UI](http://designmodo.github.io/Flat-UI/)
-- [Simple CSS spiners](http://tobiasahlin.com/spinkit/)
 - [HTML5 Up](http://html5up.net/)
 - [HTML5 Initializer](http://www.initializr.com/)
-- [Reveal.js - HTML presentations made easy](http://lab.hakim.se/reveal-js/#/)
-- [Jekyll resume](https://github.com/philipithomas/jekyll-resume/)
 
 ## Terms
 
@@ -472,21 +452,7 @@
 
 - [Daux.io - documentation generator](http://daux.io/)
 - [Vagrant](http://www.vagrantup.com/)
-- [SinglePafe.guru - singlepage design made easy](https://www.singlepage.guru/editor.html)
 - [Firebase - store and sync data in realtime](https://www.firebase.com/)
-
-## Tutorials
-
-- [Hack design](https://hackdesign.org/)
-- [Tutsplus](http://code.tutsplus.com/)
-- [Tutorialzine](http://tutorialzine.com/)
-- [Codeplayer](http://thecodeplayer.com/)
-- [Google Devolopers](https://developers.google.com/web/)
-- [Code Bright for Laravel PHP](http://daylerees.com/codebright)
-- [PHP the right way](http://www.phptherightway.com/)
-- [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
-- [User managaement in node.js](http://devcenter.kinvey.com/nodejs/guides/users)
-- [node.js guides](http://devcenter.kinvey.com/nodejs/guides)
 
 ## Validation
 
@@ -511,7 +477,6 @@
 - [Web dev checklist](http://webdevchecklist.com/)
 - [Pre-deploy checklist](http://www.codelord.net/2014/01/15/my-pre-deploy-checklist/)
 - [PHỞ - automated workflow for front-end developers](http://pho.madebysource.com/)
-- [Yeoman - the web's scaffolding tool](http://yeoman.io/)
 - [How to start a web design project](http://designmodo.com/web-design-project/)
 
 ## Yarn
@@ -560,7 +525,6 @@
 - [Threatpost](https://threatpost.com/)
 - [Internet Crime Complaint Center](https://www.ic3.gov/default.aspx)
 - [Hoax Slayer](https://hoax-slayer.com/)
-- [2016 Dyn cyberattack](https://en.wikipedia.org/wiki/2016_Dyn_cyberattack)
 - [Mcafee Global Virus Map](https://home.mcafee.com/virusinfo/global-virus-map?ctst=1)
 
 # Typograph
@@ -580,7 +544,6 @@
 
 ## Font Utilities
 
-- [Font Pair](http://fontpair.co/)
 - [Type genius](http://www.typegenius.com/)
 - [Golden Ratio Typography](https://grtcalculator.com/)
 - [Type Scale](http://type-scale.com/)
@@ -604,10 +567,8 @@
 - [Material Design Icons](https://materialdesignicons.com/)
 - [Free Icons](https://www.iconfinder.com)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-- [Gemicon](http://gemicon.net/)
 - [Batch](http://adamwhitcroft.com/batch/)
 - [Iconic](https://useiconic.com/open/)
-- [Ionicons](http://ionicons.com/)
 - [Fontelleo - icon font generator](http://fontello.com/)
 
 ## Font Icon Generators
@@ -628,7 +589,6 @@
 - [Pexels](http://www.pexels.com/)
 - [IsoRepublic](http://isorepublic.com/)
 - [Designer Pics](http://www.designerspics.com/)
-- [Realistic Shots](http://realisticshots.com/)
 - [SplitShire](http://www.splitshire.com/)
 - [FoodiesFeed](http://foodiesfeed.com/)
 - [Unsplash](https://unsplash.com/)
@@ -642,7 +602,6 @@
 
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
 - [Masonry](http://masonry.desandro.com/)
-- [MixItUp - filtering and sorting](https://mixitup.kunkalabs.com/)
 
 ## Pattern libraries
 
@@ -653,11 +612,9 @@
 
 ## Placeholder Images
 
-- [LoremPixel](http://lorempixel.com/)
 - [LoremPicsum](http://lorempicsum.com/)
 - [Unsplash.it](https://unsplash.it/)
 - [PlaceIMG](https://placeimg.com/)
-- [PlaceKitten](http://placekitten.com/)
 - [PLACEHOLD.IT](https://placehold.it/)
 - [IMG Placeholder](https://imgplaceholder.com/)
 - [Dummy Images](https://dummyimage.com/)
@@ -680,9 +637,7 @@
 ## Image Compression
 
 - [TinyPNG](https://tinypng.com/)
-- [CompressJPG](http://compressjpeg.com/)
 - [Compressor](https://compressor.io/)
-- [Compress JPG](http://jpeg-optimizer.com/)
 
 # Business
 
@@ -692,16 +647,11 @@
 
 # Aggregators & News
 
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [CSS-Tricks](https://css-tricks.com/)
 - [Front-End Front Basically, front-end news](https://frontendfront.com/)
 - [Echo JS JavaScript News](http://www.echojs.com/)
 - [Scotch Code Eat Sleep Loop](https://scotch.io/)
 - [A list apart](http://alistapart.com/)
-- [The Neo Design](http://theneodesign.com/)
-- [TechCrunch](http://techcrunch.com/)
 - [Speckyboy](http://speckyboy.com/)
-- [Vandelay design's blog](http://vandelaydesign.com/blog/)
 - [Line 25](http://line25.com/)
 - [Codular](http://codular.com/)
 - [Codacy](http://blog.codacy.com/)
@@ -719,7 +669,6 @@
 - [SiteBuilderReport](http://www.sitebuilderreport.com/blog)
 - [WebTools Weekly](https://webtoolsweekly.com/)
 - [Web design weekly](http://web-design-weekly.com/)
-- [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/)
 - [Sidebar](https://sidebar.io/)
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [JSK Weekly](https://javascriptkicks.com/)
@@ -737,13 +686,10 @@
 
 ## Traditional Jobs
 
-- [Robert Half](https://www.roberthalf.com)
 - [Kroph](https://www.krop.com/)
 - [Career Builder](https://www.careerbuilder.com)
 - [Mashable](http://jobs.mashable.com/jobs/browse)
-- [Smashing Magazine](https://www.smashingmagazine.com/jobs)
 - [Who Is Hiring](https://whoishiring.io)
-- [WebDevJobs](https://webdevjobs.co)
 - [The Muse](https://www.themuse.com)
 - [Sologig](https://www.sologig.com)
 - [Dice](https://www.dice.com)
