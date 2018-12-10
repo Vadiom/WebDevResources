@@ -101,6 +101,11 @@
 
 - [Bower](https://bower.io/)
 
+## Branding
+
+- [Primer](https://primer.style/)
+- [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
+
 ## BrowserSync
 
 - [BrowserSync](https://www.browsersync.io/)
@@ -160,6 +165,7 @@
 - [Who Is](https://who.is/)
 - [IP Info](https://ipinfo.info/)
 - [Debouncer](https://www.debouncer.com/?attempt=1)
+- [Pingdom Tools](http://tools.pingdom.com/fpt/)
 
 ## Docker
 
@@ -240,12 +246,11 @@
 - [Header Lover](http://www.headerlove.com/)
 - [Very Nice Sites](http://www.verynicesites.com/)
 - [One Page Love](https://onepagelove.com/)
-- [Awwwards](http://www.awwwards.com/)
 - [Behance](https://www.behance.net/)
 - [Site Inspire](http://www.siteinspire.com/)
 - [Land Book](http://land-book.com/)
 - [Material Up](http://www.materialup.com/)
-- [Call To Idea](http://www.calltoidea.com/)
+  <!-- - [Call To Idea](http://www.calltoidea.com/) -->
 - [AWWWards](http://www.awwwards.com/)
 - [Codrops' playground](http://tympanus.net/codrops/category/playground/)
 - [Beautiful sites for Open Source projects](http://beautifulopen.com/)
@@ -253,7 +258,6 @@
 - [Hyperakt](http://hyperakt.com)
 - [Jacob Tomlinson's minimal blog](http://www.jacobtomlinson.co.uk/)
 - [Jason Cha's DailyBible](http://jasoncho.ca/portfolio/dailybible/)
-- [JS demos](http://davidwalsh.name/codepen-demos)
 - [A collection of active backgrounds](http://codepen.io/collection/ACqoJ/)
 - [Briefbox - practice design briefs](http://briefbox.me/)
 
@@ -318,7 +322,6 @@
 - [Code Optimization Tools](https://codebeautify.org)
 - [Code Diff Checker ](https://www.diffchecker.com)
 - [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [Pingdom Tools](http://tools.pingdom.com/fpt/)
 - [GT Metrix](https://gtmetrix.com/)
 - [WebPage Test](http://www.webpagetest.org/)
 - [Gift of Speed](http://www.giftofspeed.com/)
@@ -390,8 +393,6 @@
 - [Seer Interactive](http://www.seerinteractive.com/robots.txt)
 - [Last FM](https://www.last.fm/robots.txt)
 - [Page On Power](https://www.pageonepower.com/robots.txt)
-- [ETSY](https://www.tripadvisor.com/robots.txt)
-- [ETSY](https://www.tripadvisor.com/robots.txt)
 
 ## Ruby Gems
 
@@ -415,7 +416,6 @@
 - [Scotch](https://scotch.io/tutorials/getting-started-with-sass)
 - [SASS Lang](https://sass-lang.com/install)
 - [Primitive Minimalist SASS boilerplate](https://taniarascia.github.io/primitive/#sass-main)
-- [Groupbuddies Sass project architecture and style guide](http://blog.groupbuddies.com/posts/32-our-css-sass-project-architecture-and-styleguide)
 
 ## Site Status
 
@@ -454,20 +454,10 @@
 - [Pingdom Speed Test](https://tools.pingdom.com/)
 - [Ookla ](http://www.speedtest.net/)
 
-## Snippet Tools
-
-- [Paste Bin](https://pastebin.com)
-
-## Styles
-
-- [Primer](https://primer.style/)
-- [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
-
 ## Templates, Boilerplates, Frameworks and Components
 
 - [Flat UI](http://designmodo.github.io/Flat-UI/)
 - [Simple CSS spiners](http://tobiasahlin.com/spinkit/)
-- [20 Free useful flat HTML templates](http://despreneur.com/20-free-useful-flat-html-templates/)
 - [HTML5 Up](http://html5up.net/)
 - [HTML5 Initializer](http://www.initializr.com/)
 - [Reveal.js - HTML presentations made easy](http://lab.hakim.se/reveal-js/#/)
@@ -480,7 +470,6 @@
 
 ## Tools
 
-- [10 essential tools for startups](http://despreneur.com/10-essential-tools-for-startups/)
 - [Daux.io - documentation generator](http://daux.io/)
 - [Vagrant](http://www.vagrantup.com/)
 - [SinglePafe.guru - singlepage design made easy](https://www.singlepage.guru/editor.html)
@@ -492,8 +481,7 @@
 - [Tutsplus](http://code.tutsplus.com/)
 - [Tutorialzine](http://tutorialzine.com/)
 - [Codeplayer](http://thecodeplayer.com/)
-- [Dive into HTML5](http://diveintohtml5.info/index.html)
-- [HTML5 Rocks](http://www.html5rocks.com/)
+- [Google Devolopers](https://developers.google.com/web/)
 - [Code Bright for Laravel PHP](http://daylerees.com/codebright)
 - [PHP the right way](http://www.phptherightway.com/)
 - [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
@@ -698,12 +686,9 @@
 
 # Business
 
-- [Simple contract template](https://www.docracy.com/3884/contract-of-works-for-web-design)
-- [33 ways to get more clients](http://blog.slant.co/post/95896285907/finding-a-winning-workflow-for-frontend-development)
 - [Avoiding client headache](http://uxmovement.com/resources/how-to-avoid-client-headache-as-a-freelance-designer/)
-- [Don't screw up client presentations](https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c)
 - [Starting and running your own business](http://www.jamesaltucher.com/2013/08/the-ultimate-cheat-sheet-to-starting-and-running-your-own-business/)
-- [Business Validation Cheat Sheet](http://s3.appsumo.com/ValidationCheatSheet.pdf)
+- [10 essential tools for startups](http://despreneur.com/10-essential-tools-for-startups/)
 
 # Aggregators & News
 
