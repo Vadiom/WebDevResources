@@ -73,6 +73,8 @@
 
 ## Apache
 
+<img src="images/apache.svg" alt="gulp" width=100px height=100px>
+
 - [Apache](https://httpd.apache.org/)
 
 ## Bootstrap
@@ -223,10 +225,6 @@
 - [Liveweave](http://liveweave.com)
 - [Code Snadbox](https://codesandbox.io/)
 
-## IT Stores
-
-- [Tiger Direct](http://www.tigerdirect.com/)
-
 ## Inspiration
 
 - [Dribbble](https://dribbble.com/)
@@ -346,7 +344,7 @@
 - [Super computer list](https://www.top500.org/)
 - [Computer sharing for research](https://boinc.berkeley.edu/)
 - [OpenSignal: 3G and 4G LTE Cell Coverage Map](https://opensignal.com/)
-- [ITU STATISTICS](https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx)
+- [ITU Statistics](https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx)
 
 ## Projects
 
@@ -360,6 +358,8 @@
 - [PHP the right way](http://www.phptherightway.com/)
 
 ## Robots.txt
+
+<img src="images/bot.png" alt="rphpuby" width=100px height=100px>
 
 - [Robots.txt.org](http://www.robotstxt.org/)
 - [Robots.txt File Generator](http://tools.seobook.com/robots-txt/generator/)
@@ -407,7 +407,7 @@
 - [G Suite](https://www.google.com/appsstatus#hl=en&v=status&ts=1534996799000)
 - [Site Down](https://sitedown.co/)
 - [Outage Report](https://outage.report/)
-- [Website DOwn](http://www.websitedown.info/)
+- [Website Down](http://www.websitedown.info/)
 
 ### Site Status (Specific Sites)
 
@@ -481,6 +481,8 @@
 
 ## Yarn
 
+<img src="images/yarn.svg" alt="rphpuby" width=100px height=100px>
+
 - [Yarn](https://yarnpkg.com/en/docs/getting-started)
 
 ## Yeoman
@@ -530,6 +532,8 @@
 # Typograph
 
 ## Fonts
+
+<img src="images/font-awesome.svg" alt="gulp" width=100px height=100px>
 
 - [Google Fonts](https://www.google.com/fonts)
 - [Font Squirrel](http://www.fontsquirrel.com/)
