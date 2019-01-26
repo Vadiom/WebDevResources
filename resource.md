@@ -8,7 +8,8 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![GitHub contributors](https://img.shields.io/badge/contributors-1-red.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
+![GitHub commits](https://img.shields.io/github/commits-since/safeems/WebDevResources/1.0.1.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/safeems/WebDevResources.svg)
 
 ---
 
