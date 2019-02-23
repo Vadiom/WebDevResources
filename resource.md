@@ -332,6 +332,7 @@
 - [Google Open Directory Search](http://palined.com/search/)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Spam domain blacklist](http://www.joewein.de/sw/blacklist.htm)
+- [Rumkin](http://rumkin.com/)
 - [The Hacker NEws](https://thehackernews.com/?m=1)
 - [Webhosting Talk](http://www.webhostingtalk.com/)
 - [Section 508](https://www.section508.gov/)
