@@ -333,7 +333,6 @@
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Spam domain blacklist](http://www.joewein.de/sw/blacklist.htm)
 - [Rumkin](http://rumkin.com/)
-- [The Hacker NEws](https://thehackernews.com/?m=1)
 - [Webhosting Talk](http://www.webhostingtalk.com/)
 - [Section 508](https://www.section508.gov/)
 - [HTTP Archice](https://httparchive.org/reports)
@@ -629,7 +628,6 @@
 ## Free stock videos
 
 - [Coverr](http://www.coverr.co/)
-- [Life of Vids](http://www.lifeofvids.com/)
 - [Pexels Videos](https://videos.pexels.com/)
 - [Videvo](http://www.videvo.net/)
 - [Vidsplay](http://www.vidsplay.com/)
@@ -657,13 +655,13 @@
 - [Front-End Front Basically, front-end news](https://frontendfront.com/)
 - [Echo JS JavaScript News](http://www.echojs.com/)
 - [Scotch Code Eat Sleep Loop](https://scotch.io/)
+- [The Hacker News](https://thehackernews.com/)
 - [A list apart](http://alistapart.com/)
 - [Speckyboy](http://speckyboy.com/)
 - [Line 25](http://line25.com/)
 - [Codular](http://codular.com/)
 - [Codacy](http://blog.codacy.com/)
 - [Netcraft News](https://news.netcraft.com/)
-- [Code School Blog](http://www.codeschool.com/blog/)
 - [Web Designer Depot](http://www.webdesignerdepot.com/)
 - [Tech Byte Weekly](http://www.techbytesweekly.com/)
 
@@ -675,7 +673,6 @@
 - [JavaScript Weekly](http://javascriptweekly.com/)
 - [SiteBuilderReport](http://www.sitebuilderreport.com/blog)
 - [WebTools Weekly](https://webtoolsweekly.com/)
-- [Web design weekly](http://web-design-weekly.com/)
 - [Sidebar](https://sidebar.io/)
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [JSK Weekly](https://javascriptkicks.com/)
@@ -704,31 +701,20 @@
 - [GitHub Jobs](https://jobs.github.com)
 - [Stack Overflow](https://stackoverflow.com/jobs)
 
-## Micro Jobs/Services
-
-- [Fiverr](https://www.fiverr.com)
-- [Envato Studio](https://studio.envato.com)
-- [Gigbucks](https://gigbucks.com)
-- [Zeerk](https://zeerk.com)
-- [Task Army](https://taskarmy.com)
-- [Damongo](https://www.damongo.com)
-
 ## Freelancer Sites
 
-- [Upwork](https://www.upwork.com)
+- [CloudPeeps](https://www.cloudpeeps.com)
 - [Freelancer](https://www.freelancer.com)
 - [Freelancermap](https://www.freelancermap.com)
+- [GigGrabbers](https://www.giggrabbers.com)
 - [Guru](https://www.guru.com/)
 - [Outsource](https://outsource.com)
-- [Local Solo](https://localsolo.com/)
 - [People Per Hour](https://www.peopleperhour.com)
-- [CloudPeeps](https://www.cloudpeeps.com)
-- [GigGrabbers](https://www.giggrabbers.com)
+- [Upwork](https://www.upwork.com)
 
 ## Screened Freelancer Sites
 
 - [Toptal](https://www.toptal.com)
-- [Coworks](https://coworks.com)
 - [Gun](https://www.gun.io)
 - [Folyo](https://folyo.me)
 
