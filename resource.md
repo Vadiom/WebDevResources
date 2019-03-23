@@ -138,6 +138,12 @@
 
 - [Cordova](https://cordova.apache.org/)
 
+## Copyright(s) Explained
+
+- [Creative Commons](https://creativecommons.org/licenses/by/4.0/)
+- [GNU](http://www.gnu.org/licenses/license-list.en.html)
+- [Open Source Explained](https://opensource.org/licenses/GPL-3.0)
+
 ## Cross-Browser Compatibility
 
 - [Can I Use](https://caniuse.com/)
