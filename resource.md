@@ -141,6 +141,7 @@
 ## Copyright(s) Explained
 
 - [Creative Commons](https://creativecommons.org/licenses/by/4.0/)
+- [Choose A License](https://choosealicense.com/licenses/mit/)
 - [GNU](http://www.gnu.org/licenses/license-list.en.html)
 - [Open Source Explained](https://opensource.org/licenses/GPL-3.0)
 
@@ -186,12 +187,11 @@
 
 <img src="images/github.svg" alt="git" width=100px height=100px>
 
-- [GitHub](https://github.com/)
-- [Git Icons](https://shields.io/#/)
+- [GitHub](https://github.com)
+- [Git Badges](https://shields.io/#/)
 - [Git Scm](https://git-scm.com/)
 - [Git-it – Learn Git](http://jlord.us/git-it/)
 - [Make a Readme File](https://www.makeareadme.com)
-- [Git Badges](https://shields.io/#/)
 
 ## Generators
 
@@ -209,7 +209,6 @@
 - [ECO Grader](https://ecograder.com/)
 - [Website Carbon](https://www.websitecarbon.com/)
 - [Green Electronics Council](http://greenelectronicscouncil.org/epeat/epeat-overview/)
-- [Energy Star](https://www.energystar.gov/)
 - [EPA E-Waste eCycling](https://www.epa.gov/recycle/electronics-donation-and-recycling)
 
 ## Grunt
