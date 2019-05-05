@@ -504,7 +504,7 @@
 - [Wordpress Theme Handbook](https://developer.wordpress.org/themes/)
 - [Wordpress Devolopers](https://developer.wordpress.com/)
 - [Wordpress Testing](http://wptest.io/)
-- [Wordpress Functions](http://www.wpfunction.me/)
+  <!-- - [Wordpress Functions](http://www.wpfunction.me/) -->
 - [Post Type Generator](https://generatewp.com/post-type/)
 - [VISUALIZE THE WORDPRESS TEMPLATE HIERARCHY](https://wphierarchy.com/)
 - [WP Beginner](https://www.wpbeginner.com/)
@@ -525,7 +525,7 @@
 ### Dummy Data
 
 - [Wordpress Dummy Data](https://wpthemetestdata.wordpress.com)
-- [WPFILL ME](http://www.wpfill.me/)
+  <!-- - [WPFILL ME](http://www.wpfill.me/) -->
 - [WP Theme Test](http://themetest.wordpress.com)
 - [WP Test Data](http://wptest.io/demo)
 
@@ -533,7 +533,7 @@
 
 - [Threatpost](https://threatpost.com/)
 - [Internet Crime Complaint Center](https://www.ic3.gov/default.aspx)
-- [Hoax Slayer](https://hoax-slayer.com/)
+  <!-- - [Hoax Slayer](https://hoax-slayer.com/) -->
 - [Mcafee Global Virus Map](https://home.mcafee.com/virusinfo/global-virus-map?ctst=1)
 
 # Typograph
