@@ -13,6 +13,8 @@ A collection of links to resources including:
 - HTML5
 - CSS3
 - Javscript
+- Wordpress
+- Stock photo & video
 
 ## License
 
